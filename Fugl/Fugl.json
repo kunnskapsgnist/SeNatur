@@ -1,5 +1,5 @@
 [
-["Stokkand","stokkand_00.jpg","Per Harald Olsen/NTNU","CC BY SA 3.0","Stokkand"],
+  ["Stokkand","stokkand_00.jpg","Per Harald Olsen/NTNU","CC BY SA 3.0","Stokkand"],
 ["Stokkand","stokkand_01.jpg","Per Harald Olsen/NTNU","CC BY SA 3.0","Stokkand"],
 ["Kråke","krake_00.jpg","Per Harald Olsen/NTNU","CC BY SA 3.0","Kråke"],
 ["Gråmåke","gramake_00.jpg","Per Harald Olsen/NTNU","CC BY SA 3.0","Gråmåke"],
@@ -9,7 +9,7 @@
 ["Kvinand","kvinand_01.jpg","Per Harald Olsen/NTNU","CC BY SA 3.0","Kvinand hunn"],
 ["Svarttrost","svarttrost_00.jpg","Per Harald Olsen/NTNU","CC BY SA 3.0","Svarttrost"],
 ["Svarttrost","svarttrost_01.jpg","Robert Brenner Marthins","CC BY SA 3.0","Svarttrost"],
-["Blåmeis","blameis_00.jpg","Frank Drebin","CC BY SA 3.0","Blåmeis"],
+["Blåmeis","blameis_00.jpg","Sławek Staszczuk/Frank Drebin","CC BY SA 3.0","Blåmeis"],
 ["Blåmeis","blameis_01.jpg","Per Harald Olsen","CC BY SA 3.0","Blåmeis"],
 ["Blåmeis","blameis_02.jpg","Rognmo","CC BY SA 3.0","Blåmeis"],
 ["Blåmeis","blameis_03.jpg","Arnstein Rønning/Eaglestein","CC BY SA 3.0","Siste dag i redet"],
@@ -114,6 +114,7 @@
 ["Kortnebbgås","kortnebbgas_00.jpg","Per Harald Olsen/NTNU","CC BY SA 3.0","Kortnebbgås"],
 ["Kortnebbgås","kortnebbgas_01.jpg","Per Harald Olsen/NTNU","CC BY SA 3.0","Kortnebbgås"],
 ["Sidensvans","sidensvans_00.jpg","Terje Simonsen","CC BY SA 3.0","Sidensvans"],
+["Sidensvans","sidensvans_01.jpg","Randen Pederson","CC BY-SA 2.0","Sidensvans"],
 ["Storlom","storlom_00.jpg","Per Harald Olsen/NTNU","CC BY SA 3.0","Storlom"],
 ["Storlom","storlom_01.jpg","Per Harald Olsen/NTNU","CC BY SA 3.0","Storlom"],
 ["Storlom","storlom_02.jpg","Per Harald Olsen/NTNU","CC BY SA 3.0","Storlom"],
@@ -264,7 +265,7 @@
 ["Storspove","storspove_00.jpg","Ken Billington","CC BY-SA 3.0","Storspove"],
 ["Storspove","storspove_01.jpg","Charles J Sharp","CC BY-SA 4.0","Storspove"],
 ["Rødstilk","rodstilk_00.jpg","Andreas Trepte ","CC BY-SA 2.5","Rødstilk"],
-["Rødstilk","rodstilk_02.jpg","pjt56","CC BY 3.0","Rødstilk"],
+["Rødstilk","rodstilk_01.jpg","pjt56","CC BY 3.0","Rødstilk"],
 ["Brunnakke","brunnakke_00.jpg","Kuribo from  Osaka,  Japan","CC BY-SA 2.0","Brunnakkke"],
 ["Brunnakke","brunnakke_01.jpg","Frode Inge Helland","CC BY-SA 3.0","Brunnakke hann"],
 ["Brunnakke","brunnakke_02.jpg","Frode Inge Helland","CC BY-SA 3.0","Brunnakke hunn"],
@@ -280,10 +281,10 @@
 ["Strandsnipe","strandsnipe_00.jpg","Marek Szczepanek","CC BY-SA 3.0","Strandsnipe"],
 ["Strandsnipe","strandsnipe_01.jpg","Imran Shah","CC BY-SA 2.0","Strandsnipe"],
 ["Munk","munk_00.jpg","Tony Smith","CC BY 2.0","Munk hann"],
-["Munk","munk_01.jpg","Arnstein Rønning","CC BY-SA 3.0","Munk hunn"],
+["Munk","munk_01.JPG","Arnstein Rønning","CC BY-SA 3.0","Munk hunn"],
 ["Kaie","kaie_00.jpg","Tony Hisgett","CC BY 2.0","Kaie"],
 ["Gråsisik","grasisik_00.jpg","Jyrki Salmi","CC BY-SA 2.0","Gråsisik"],
-["Gråsisik","grasisik_00.jpg","Arnstein Rønning","CC BY-SA 3.0","Gråsisik"],
+["Gråsisik","grasisik_01.jpg","Arnstein Rønning","CC BY-SA 3.0","Gråsisik"],
 ["Brunsisik","brunsisik_00.jpg","MPF","CC BY-SA 3.0","Brunsisik hann"],
 ["Brunsisik","brunsisik_01.jpg","MPF","CC BY-SA 3.0","Brunsisik hunn"],
 ["Fuglekonge","fuglekonge_00.jpg","Missy Osborn","CC BY-SA 2.0","Fuglekonge"],
@@ -298,5 +299,6 @@
 ["Grønnspett","gronnspett_01.jpg","Hans-Jörg Hellwig","CC BY-SA 3.0","Grønnspett hann"],
 ["Bydue","bydue_00.jpg","Benh ","CC BY 2.5","Bydue"],
 ["Musvåk","musvak_00.jpg","Martin Mecnarowski","CC BY-SA 3.0","Musvåk"],
-["Musvåk","musvak_01.jpg","Mark Medcalf","CC BY 2.0","Musvåk"]
+["Musvåk","musvak_01.jpg","Mark Medcalf","CC BY 2.0","Musvåk"],
+["Gulnebblom","gulnebblom_00.jpg","Tom Johnson","CC BY 2.0","Gullnebblom"]
 ]
