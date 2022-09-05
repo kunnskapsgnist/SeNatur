@@ -5,7 +5,7 @@
   [5219243,"Rødrev","Hundefamilien",[58,80],[5,15]],
   [2434793,"Steinkobbe","Selfamilien",[140,155],[67,105]],
   [4409131,"Bever","Beverfamilien",[70,90],[15,20]],
-  [2426805,"Buttsnutefrosk","Ekte frosker",[7,8],[0,0]],
+  [2426805,"Buttsnutefrosk","Ektefrosker",[7,8],[0,0]],
   [2441108,"Moskusfe","Oksefamilien",[250,250],[350,450]],
   [2440669,"Nise","Nisefamilien",[150,150],[60,75]],
   [5219616,"Piggsvin","Piggsvinfamilien",[30,30],[1.2,1.5]],
@@ -24,13 +24,13 @@
   [2433753,"Oter","Mårfamilien",[50,95],[3,12]],
   [2440958,"Hjort","Hjortefamilien",[165,220],[120,300]],
   [2433652,"Mink","Mårfamilien",[30,54],[0.5,1.5]],
-  [5218405,"Småsalamander","Ekte salamandere",[7,10],[0,0]],
+  [5218405,"Småsalamander","Ektesalamandere",[7,10],[0,0]],
   [2433875,"Grevling","Mårfamilien",[60,90],[10,12]],
   [5220114,"Rein","Hjortefamilien",[160,210],[70,250]],
   [7261816,"Nordflaggermus","Glattnesefamilien",[5.5,6.4],[0.007,0.014]],
-  [5217160,"Nordpadde","Ekte padder",[6,10],[0.03,0.1]],
+  [5217160,"Nordpadde","Ektepadder",[6,10],[0.03,0.1]],
   [5219019,"Røyskatt","Mårfamilien",[29,29],[250,250]],
-  [2431885,"Storsalamander","Ekte salamandere",[11,15],[0,0]],
+  [2431885,"Storsalamander","Ektesalamandere",[11,15],[0,0]],
   [2468095,"Stålorm","Stålormer",[40,40],[0,0]],
   [5706764,"Klatremus","Hamsterfamilien",[14,14],[0.04,0.04]],
   [2437760,"Småskogmus","Musefamilien",[11,11],[0.03,0.03]],
@@ -48,5 +48,5 @@
   [2432439,"Vannflaggermus","Glattnesefamilien",[4.5,5.5],[0.007,0.015]],
   [7952072,"Sørhare","Harefamilien",[48,70],[3.5,7]],
   [7571319,"Dvergspissmus","Spissmusfamilien",[3.5,5.5],[0.0025,0.006]],
-  [2426789,"Spissnutefrosk","Ekte frosker",[6,7],[0,0]]
+  [2426789,"Spissnutefrosk","Ektefrosker",[6,7],[0,0]]
 ]
