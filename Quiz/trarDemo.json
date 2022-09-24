@@ -1,13 +1,12 @@
 [
-  [3189870,"Platanlønn","Lønnefamilien",[0,0],[0,0]],
-  [5284827,"Sitkagran","Furufamilien",[0,0],[0,0]],
-  [3012167,"Rogn","Rosefamilien",[0,0],[0,0]],
-  [5284884,"Gran","Furufamilien",[0,0],[0,0]],
-  [3172358,"Ask","Oliventrefamilien",[0,0],[0,0]],
-  [5285637,"Furu","Furufamilien",[0,0],[0,0]],
-  [9118014,"Bjørk","Bjørkefamilien",[0,0],[0,0]],
-  [2684709,"Einer","Sypressfamilien",[0,0],[0,0]],
-  [3040249,"Osp","Vierfamilien",[0,0],[0,0]],
-  [2875979,"Hassel","Bjørkefamilien",[0,0],[0,0]],
-  [5372952,"Selje","Vierfamilien",[0,0],[0,0]]
+  [2878688,"Sommereik","Bøkefamilien",[100,1500],[0,0]],
+  [3012167,"Rogn","Rosefamilien",[100,1000],[0,0]],
+  [5284884,"Gran","Furufamilien",[100,4800],[0,0]],
+  [3172358,"Ask","Oliventrefamilien",[100,2000],[0,0]],
+  [5285637,"Furu","Furufamilien",[100,3500],[0,0]],
+  [9118014,"Bjørk","Bjørkefamilien",[100,1500],[0,0]],
+  [2684709,"Einer","Sypressfamilien",[100,1500],[0,0]],
+  [3040249,"Osp","Vierfamilien",[5,2000],[0,0]],
+  [2875979,"Hassel","Bjørkefamilien",[100,600],[0,0]],
+  [3189846,"Spisslønn","Lønnefamilien",[100,2000],[0,0]]
 ]

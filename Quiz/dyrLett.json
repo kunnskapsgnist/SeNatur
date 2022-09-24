@@ -12,16 +12,11 @@
   [5219840,"Lemen","Hamsterfamilien",[15,15],[0.12,0.12]],
   [5960862,"Hoggorm","Hoggormer",[50,70],[150,200]],
   [5218878,"Mår","Mårfamilien",[40,55],[0.9,2]],
-  [8316400,"Krattspissmus","Spissmusfamilien",[4.4,7.6],[0.005,0.014]],
-  [5707150,"Dvergflaggermus","Glattnesefamilien",[3,5],[0.008,0.008]],
+  [7261816,"Nordflaggermus","Glattnesefamilien",[5.5,6.4],[0.007,0.014]],
   [2435240,"Gaupe","Kattefamilien",[90,120],[17,23]],
   [2433433,"Brunbjørn","Bjørnefamilien",[130,250],[60,325]],
   [5219173,"Ulv","Hundefamilien",[150,165],[38,47]],
-  [5219073,"Jerv","Mårfamilien",[100,100],[8,25]],
   [2433451,"Isbjørn","Bjørnefamilien",[180,260],[150,600]],
-  [2434532,"Fjellrev","Hundefamilien",[50,65],[3,4]],
   [2440940,"Elg","Hjortefamilien",[230,310],[280,700]],
-  [2433753,"Oter","Mårfamilien",[50,95],[3,12]],
-  [2440958,"Hjort","Hjortefamilien",[165,220],[120,300]],
-  [2433652,"Mink","Mårfamilien",[30,54],[0.5,1.5]]
+  [2433753,"Oter","Mårfamilien",[50,95],[3,12]]
 ]

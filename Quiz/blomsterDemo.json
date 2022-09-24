@@ -1,12 +1,12 @@
 [
-  [2964355,"Hagelupin","Erteblomstfamilien",[0,0],[0,0]],
-  [5365576,"Tepperot","Rosefamilien",[0,0],[0,0]],
-  [2987999,"Mjødurt","Rosefamilien",[0,0],[0,0]],
-  [3120060,"Ryllik","Kurvplantefamilien",[0,0],[0,0]],
-  [3029817,"Markjordbær","Rosefamilien",[0,0],[0,0]],
-  [2891147,"Skogstorkenebb","Storkenebbfamilien",[0,0],[0,0]],
-  [3033263,"Hvitveis","Soleiefamilien",[0,0],[0,0]],
-  [5410907,"Blåklokke","Klokkefamilien",[0,0],[0,0]],
-  [5357013,"Tiriltunge","Erteblomstfamilien",[0,0],[0,0]],
-  [8272844,"Skogstjerne","Nøkleblomfamilien",[0,0],[0,0]]
+  [3029817,"Markjordbær","Rosefamilien",[5,20],[0,0]],
+  [3033263,"Hvitveis","Soleiefamilien",[10,30],[0,0]],
+  [5410907,"Blåklokke","Klokkefamilien",[10,50],[0,0]],
+  [5357013,"Tiriltunge","Erteblomstfamilien",[10,30],[0,0]],
+  [6428353,"Geitrams","Mjølkefamilien",[50,200],[0,0]],
+  [5371699,"Blåveis","Soleiefamilien",[10,15],[0,0]],
+  [7459480,"Liljekonvall","Aspargesfamilien",[15,25],[0,0]],
+  [7296321,"Skogfiol","Fiolfamilien",[10,20],[0,0]],
+  [5394163,"Ugrasløvetenner","Kurvplantefamilien",[5,40],[0,0]],
+  [2882833,"Blåbær","Lyngfamilien",[10,50],[0,0]]
 ]
