@@ -103,5 +103,7 @@
   [2440339,"Nordkaper","Retthvalfamilien",[1300,1600],[100000,100000]],
   [2432359,"Sørflaggermus","Glattnesefamilien",[6,8],[0.035,0.035]],
   [2440369,"Blekhodenebbhval","Nebbhvalfamilien",[6.4,7],[3000,3000]],
-  [2432389,"Børsteflaggermus","Glattnesefamilien",[4.2,5],[0.005,0.012]]
+  [2432389,"Børsteflaggermus","Glattnesefamilien",[4.2,5],[0.005,0.012]],
+  [5219200,"Tamhund","Hundefamilien",[40,160],[1.5,100]],
+  [2435035,"Tamkatt","Kattefamilien",[76,76],[2.5,7.5]],
 ]
