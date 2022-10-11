@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_marginHorizontal="6dp"
+    android:layout_marginVertical="6dp"
+    app:cardCornerRadius="8dp"
+    app:cardElevation="10dp"
+    android:id="@+id/artene_kort_bakgrunn"
+    app:cardBackgroundColor="@color/bla_mork"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="6dp"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="3dp"
+            android:orientation="horizontal">
+
+            <com.android.volley.toolbox.NetworkImageView
+                android:id="@+id/artene_kort_bilde"
+                android:layout_width="90dp"
+                android:layout_height="60dp"
+                android:layout_marginEnd="16dp"
+                android:layout_gravity="center_vertical"
+                android:contentDescription="@string/bilder" />
+
+            <TextView
+                android:id="@+id/artene_kort_navn"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:minHeight="60dp"
+                android:layout_weight="1"
+                android:textColor="@color/hvit"
+                android:textSize="22sp"
+                android:gravity="center_vertical"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/artene_kort_info"
+            android:visibility="gone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="6dp"
+            android:background="@drawable/bakgrunn_bunn">
+
+            <TextView
+                android:id="@+id/artene_vingespenn"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/hvit"
+                android:layout_gravity="center_vertical"
+                android:layout_marginTop="6dp"
+                android:paddingStart="70dp"
+                android:paddingEnd="0dp"
+                android:textSize="21sp" />
+
+            <TextView
+                android:id="@+id/artene_vekt"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:minHeight="48dp"
+                android:textColor="@color/hvit"
+                android:textSize="22sp"
+                android:layout_marginTop="6dp"
+                android:drawablePadding="10dp"
+                android:layout_gravity="center_vertical" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

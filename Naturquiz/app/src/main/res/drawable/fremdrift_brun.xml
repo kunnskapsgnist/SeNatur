@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape>
+            <corners android:radius="10dp" />
+            <gradient
+                android:startColor="@color/brun"
+                android:endColor="@color/brun"
+                />
+        </shape>
+    </item>
+
+
+    <item>
+        <clip>
+            <shape>
+                <corners
+                    android:radius="10dp" />
+                <gradient
+                    android:startColor="@color/brun_mork"
+                    android:endColor="@color/brun_mork" />
+            </shape>
+        </clip>
+    </item>
+
+</layer-list>

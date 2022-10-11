@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/artene_bakgrunn"
+        android:orientation="vertical"
+        android:background="@drawable/gradient_bla"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <com.android.volley.toolbox.NetworkImageView
+            android:id="@+id/artene_stort_bilde"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="invisible"
+            android:background="@drawable/gradient_bla"
+            android:elevation="10dp"
+            android:padding="16dp"
+            android:contentDescription="@string/klikk_forminske"/>
+
+        <TextView
+            android:id="@+id/artene_tittel"
+            style="@style/title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:text="@string/arter" />
+
+        <TextView
+            android:id="@+id/artene_antall"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="6dp"
+            app:layout_constraintTop_toBottomOf="@id/artene_tittel"
+            android:gravity="center_horizontal"
+            style="@style/tekst"/>
+
+        <LinearLayout
+            android:id="@+id/artene_level_ll"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="6dp"
+            android:layout_marginTop="6dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/artene_antall">
+
+            <ImageView
+                android:id="@+id/artene_level_forrige"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:layout_gravity="center_vertical"
+                android:background="@drawable/bakgrunn_venstre"
+                android:src="@drawable/pil_tilbake"
+                android:fontFamily="@font/aclonica"
+                android:contentDescription="@string/forrige" />
+
+            <TextView
+                android:id="@+id/artene_level"
+                android:layout_width="0dp"
+                android:layout_height="50dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/aclonica"
+                android:textColor="@color/hvit"
+                android:background="@drawable/bakgrunn_midt"
+                android:gravity="center"
+                android:text="@string/level"
+                android:textSize="20sp"/>
+
+            <ImageView
+                android:id="@+id/artene_level_neste"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:layout_gravity="center_vertical"
+                android:background="@drawable/bakgrunn_hoyre"
+                android:src="@drawable/pil_neste"
+                android:fontFamily="@font/aclonica"
+                android:textSize="20sp"
+                android:contentDescription="@string/neste" />
+
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/artene_internett"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_margin="16dp"
+            app:layout_constraintTop_toBottomOf="@+id/artene_level_ll"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            android:src="@drawable/mangler_internet"
+            android:contentDescription="@string/mangler_internett" />
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/artene_liste"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginTop="6dp"
+            android:contentDescription="@string/arter"
+            app:layout_constraintBottom_toTopOf="@+id/artene_typer"
+            app:layout_constraintTop_toBottomOf="@+id/artene_level_ll"
+            app:layout_constraintVertical_bias="0.0"
+            tools:layout_editor_absoluteX="16dp" />
+
+        <ImageView
+            android:id="@+id/artene_hjelp_finger"
+            android:visibility="invisible"
+            app:srcCompat="@drawable/hjelp_finger"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintTop_toTopOf="@+id/artene_liste"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="120dp"
+            android:elevation="13dp"
+            android:contentDescription="@string/help" />
+
+        <TextView
+            android:id="@+id/artene_hjelp_tekst"
+            android:visibility="invisible"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="6dp"
+            app:layout_constraintTop_toBottomOf="@+id/artene_hjelp_finger"
+            app:layout_constraintStart_toStartOf="@+id/artene_hjelp_finger"
+            android:textSize="22sp"
+            android:gravity="center"
+            android:background="@color/hvit"
+            android:padding="10dp"
+            android:elevation="12dp"
+            android:textColor="@color/svart"/>
+
+        <com.appodeal.ads.BannerView
+            android:id="@+id/artene_reklame"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentBottom="true"
+            android:elevation="10dp"
+            app:layout_constraintBottom_toTopOf="@id/artene_typer"
+            />
+
+        <!-- Typene helt nederst -->
+        <LinearLayout
+            android:id="@+id/artene_typer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:layout_constraintBottom_toBottomOf="parent"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/artene_fugl"
+                android:background="@color/bla_lys"
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:layout_height="60dp"
+                android:src="@drawable/fugl"
+                android:contentDescription="@string/fugler" />
+
+            <ImageView
+                android:id="@+id/artene_plante"
+                android:background="@color/gronn_lys"
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:layout_height="60dp"
+                android:padding="3dp"
+                android:src="@drawable/blomst"
+                android:contentDescription="@string/planter" />
+
+            <ImageView
+                android:id="@+id/artene_sopp"
+                android:background="@color/lilla_lys"
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:layout_height="60dp"
+                android:src="@drawable/sopp"
+                android:contentDescription="@string/sopp" />
+
+            <ImageView
+                android:id="@+id/artene_insekt"
+                android:background="@color/rod_lys"
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:layout_height="60dp"
+                android:src="@drawable/insekt_sommerfugl"
+                android:contentDescription="@string/insekt" />
+
+            <ImageView
+                android:id="@+id/artene_dyr"
+                android:background="@color/brun_lys"
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:layout_height="60dp"
+                android:padding="6dp"
+                android:src="@drawable/dyr_ekorn"
+                android:contentDescription="@string/ekorn" />
+
+        </LinearLayout>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</layout>

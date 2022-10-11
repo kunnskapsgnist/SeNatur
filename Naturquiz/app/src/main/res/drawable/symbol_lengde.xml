@@ -1,0 +1,14 @@
+<vector
+    android:tint="@color/svart"
+    android:autoMirrored="true"
+    android:height="40dp"
+    android:viewportHeight="24"
+    android:viewportWidth="24" android:width="40dp" xmlns:android="http://schemas.android.com/apk/res/android">
+    <path
+        android:strokeColor="@color/svart" android:strokeWidth="2"
+        android:strokeLineCap="round" android:strokeLineJoin="round"
+        android:pathData="
+        M2,12 m3,3 l-3,-3 l3,-3 m-3,3 h20
+        m-3,3 l3,-3 l-3,-3
+        "/>
+</vector>

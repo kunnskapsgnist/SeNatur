@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/valg_bakgrunn"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/gradient_bla"
+        tools:context=".Valg">
+
+        <ImageView
+            android:id="@+id/valg_illustrasjon"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_marginTop="50dp"
+            android:layout_marginHorizontal="50dp"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:srcCompat="@drawable/bilde_fugl"
+            android:contentDescription="@string/fugler" />
+
+        <LinearLayout
+            android:id="@+id/valg_ll_level"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            app:layout_constraintTop_toBottomOf="@id/valg_illustrasjon"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginTop="30dp">
+
+            <TextView
+                android:id="@+id/valg_velg_level"
+                style="@style/tekst"
+                android:layout_height="wrap_content"
+                android:layout_margin="16dp"
+                android:padding="6dp"
+                android:layout_weight="1"
+                android:layout_gravity="center"
+                android:text="@string/velg_niva"/>
+
+            <Spinner
+                android:id="@+id/valg_level_nedtrekk"
+                android:layout_width="0dp"
+                android:layout_height="50dp"
+                android:layout_weight="1"
+                android:layout_marginEnd="16dp"
+                android:background="@drawable/nedtrekksmeny_bla"
+                android:gravity="end"/>
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/valg_start"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:text="@string/start"
+            app:cornerRadius="10dp"
+            android:layout_gravity="center"
+            android:layout_margin="16dp"
+            android:fontFamily="@font/aclonica"
+            android:padding="10dp"
+            android:textSize="21sp"
+            android:elevation="10dp"
+            android:textAlignment="center"
+            app:layout_constraintTop_toBottomOf="@id/valg_ll_level"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:textAllCaps="true"
+            android:textColor="@color/hvit"
+            android:backgroundTint="@color/blank"/>
+
+        <TextView
+            android:id="@+id/valg_tekst"
+            style="@style/tekst"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="60dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            app:layout_constraintTop_toBottomOf="@+id/valg_start"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent" />
+
+        <ProgressBar
+            android:id="@+id/valg_progress_bar"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:layout_width="0dp"
+            android:layout_height="50dp"
+            android:min="0"
+            android:max="100"
+            android:progress="10"
+            android:progressDrawable="@drawable/fremdrift_bla"
+            app:layout_constraintTop_toTopOf="@id/valg_start"
+            app:layout_constraintBottom_toBottomOf="@id/valg_start"
+            app:layout_constraintStart_toStartOf="@id/valg_start"
+            app:layout_constraintEnd_toEndOf="@id/valg_start" />
+
+        <TextView
+            android:id="@+id/valg_hjelp_level"
+            android:visibility="gone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:padding="10dp"
+            android:gravity="center"
+            android:background="@drawable/bakgrunn_midt"
+            android:text="@string/level_forklart"
+            android:textColor="@color/bla_lys"
+            android:textSize="20sp"
+            app:layout_constraintTop_toBottomOf="@id/valg_progress_bar"
+            app:layout_constraintBottom_toTopOf="@+id/valg_reklame"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"/>
+
+        <ImageView
+            android:id="@+id/valg_hjelp"
+            android:visibility="invisible"
+            app:srcCompat="@drawable/hjelp_finger"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintTop_toTopOf="@+id/valg_ll_level"
+            app:layout_constraintEnd_toEndOf="@+id/valg_ll_level"
+            android:layout_marginEnd="20dp"
+            android:elevation="10dp"
+            android:contentDescription="@string/help" />
+
+        <TextView
+            android:id="@+id/valg_hjelp_tekst"
+            android:visibility="invisible"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="6dp"
+            app:layout_constraintTop_toBottomOf="@+id/valg_hjelp"
+            app:layout_constraintStart_toStartOf="@+id/valg_hjelp"
+            android:textSize="22sp"
+            android:gravity="center"
+            android:background="@color/hvit"
+            android:padding="10dp"
+            android:elevation="2dp"
+            android:textColor="@color/bla_mork"/>
+
+        <com.appodeal.ads.BannerView
+            android:id="@+id/valg_reklame"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentBottom="true"
+            android:elevation="10dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

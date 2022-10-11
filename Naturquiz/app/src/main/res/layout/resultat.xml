@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/resultat_bakgrunn"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/gradient_bla"
+        tools:context=".Resultat">
+
+        <TextView
+            android:id="@+id/resultat_tittel"
+            style="@style/title"
+            android:layout_marginTop="16dp"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:text="@string/gratulerer" />
+
+        <LinearLayout
+            android:id="@+id/resultat_ll"
+            android:orientation="horizontal"
+            app:layout_constraintTop_toBottomOf="@+id/resultat_tittel"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/resultat_type_venstre"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_marginStart="-50dp"
+                app:srcCompat="@drawable/fugl"
+                android:contentDescription="@string/fugler" />
+
+            <TextView
+                android:id="@+id/resultat_tekst"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="30dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:textColor="@color/bla_mork"
+                android:textSize="22sp" />
+
+            <ImageView
+                android:id="@+id/resultat_type_hoyre"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_gravity="end"
+                android:layout_marginEnd="-50dp"
+                app:srcCompat="@drawable/fugl"
+                android:rotationY="180"
+                android:contentDescription="@string/fugler" />
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/resultat_ny_rekord"
+            android:visibility="gone"
+            style="@style/title"
+            android:textSize="25sp"
+            android:background="@drawable/bakgrunn_stjerne"
+            app:layout_constraintTop_toBottomOf="@+id/resultat_ll"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:text="@string/ny_personlig_rekord"
+            android:textColor="@color/gronn_mork"
+            android:paddingHorizontal="10dp"
+            android:paddingVertical="20dp"
+            android:layout_marginTop="-20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <LinearLayout
+            android:id="@+id/resultat_level_ll"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="6dp"
+            android:layout_marginTop="16dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/resultat_ny_rekord">
+
+            <ImageView
+                android:id="@+id/resultat_level_forrige"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:layout_gravity="center_vertical"
+                android:background="@drawable/bakgrunn_venstre"
+                android:src="@drawable/pil_tilbake"
+                android:fontFamily="@font/aclonica"
+                android:contentDescription="@string/forrige" />
+
+            <TextView
+                android:id="@+id/resultat_level"
+                android:layout_width="0dp"
+                android:layout_height="50dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/aclonica"
+                android:textColor="@color/hvit"
+                android:background="@drawable/bakgrunn_midt"
+                android:gravity="center"
+                android:text="@string/level"
+                android:textSize="20sp"/>
+
+            <ImageView
+                android:id="@+id/resultat_level_neste"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:layout_gravity="center_vertical"
+                android:background="@drawable/bakgrunn_hoyre"
+                android:src="@drawable/pil_neste"
+                android:fontFamily="@font/aclonica"
+                android:textSize="20sp"
+                android:contentDescription="@string/neste" />
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/resultat_dine_poeng"
+            style="@style/tekst"
+            android:layout_marginTop="16dp"
+            android:layout_marginStart="16dp"
+            android:text="@string/dine_poeng"
+            app:layout_constraintTop_toBottomOf="@+id/resultat_level_ll"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <ListView
+            android:id="@+id/resultat_liste"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:paddingBottom="5dp"
+            android:clipToPadding="false"
+            android:dividerHeight="1dp"
+            app:layout_constraintTop_toBottomOf="@+id/resultat_dine_poeng"
+            app:layout_constraintBottom_toTopOf="@+id/resultat_rekorder"
+            app:flow_verticalAlign="top"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:cacheColorHint="@color/bla_mork"
+            android:layout_margin="16dp"/>
+
+        <Button
+            android:id="@+id/resultat_igjen"
+            style="@style/tekst_knapp"
+            android:layout_width="0dp"
+            android:text="@string/igjen"
+            android:layout_marginTop="0dp"
+            app:layout_constraintTop_toTopOf="@+id/resultat_rekorder"
+            app:layout_constraintRight_toLeftOf="@+id/resultat_rekorder"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:cornerRadius="10dp" />
+
+        <Button
+            android:id="@+id/resultat_hjem"
+            style="@style/tekst_knapp"
+            android:layout_width="0dp"
+            android:text="@string/hjem"
+            android:layout_marginBottom="0dp"
+            app:layout_constraintBottom_toBottomOf="@+id/resultat_rekorder"
+            app:layout_constraintRight_toLeftOf="@+id/resultat_rekorder"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:cornerRadius="10dp" />
+
+        <Button
+            android:id="@+id/resultat_rekorder"
+            android:layout_width="130dp"
+            android:layout_height="130dp"
+            android:layout_margin="16dp"
+            android:backgroundTint="@color/bla_mork"
+            app:cornerRadius="10dp"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintBottom_toBottomOf="parent"
+            android:drawableTop="@drawable/medalje" />
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/resultat_vent"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintBottom_toBottomOf="parent"
+            android:elevation="10dp"
+            android:background="@drawable/gradient_bla"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/resultat_vent_type"
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:layout_gravity="center"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:srcCompat="@drawable/edderkopp"
+                android:contentDescription="@string/fugler" />
+
+            <ProgressBar
+                style="?android:attr/progressBarStyleLarge"
+                android:layout_gravity="center"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintEnd_toEndOf="parent" />
+
+            <TextView
+                android:id="@+id/resultat_vent_reklametekst"
+                android:visibility="gone"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="50dp"
+                app:layout_constraintTop_toBottomOf="@+id/resultat_vent_type"
+                android:text="@string/henter_reklame"
+                android:gravity="center"
+                android:textColor="@color/bla_mork"
+                android:textSize="22sp" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

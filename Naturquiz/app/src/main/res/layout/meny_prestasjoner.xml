@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/start_bakgrunn"
+        android:background="@drawable/gradient_bla"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".Meny_prestasjoner">
+
+        <TextView
+            android:id="@+id/prestasjon_tittel"
+            style="@style/title"
+            android:fontFamily="@font/aclonica"
+            android:text="@string/mine_prestasjoner"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <!-- Liste av prestasjoner -->
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/prestasjon_prestasjoner"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginHorizontal="6dp"
+            android:layout_marginVertical="0dp"
+            android:paddingBottom="100dp"
+            android:clipToPadding="false"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/prestasjon_tittel"
+            app:layout_constraintVertical_bias="0.0"
+            tools:layout_editor_absoluteX="6dp" />
+
+        <com.appodeal.ads.BannerView
+            android:id="@+id/prestasjon_reklame"
+            android:visibility="gone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentBottom="true"
+            android:elevation="10dp"
+            android:background="@drawable/gradient_bla_blank"
+            app:layout_constraintBottom_toBottomOf="parent"
+            />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</layout>

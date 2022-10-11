@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:paddingTop="3dp"
+    android:paddingBottom="3dp"
+    android:descendantFocusability="blocksDescendants">
+
+    <TextView
+        android:id="@+id/historie_poeng"
+        android:layout_width="70dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical|end"
+        android:textAlignment="textEnd"
+        android:layout_marginEnd="16dp"
+        android:textSize="20sp"
+        android:textColor="@color/bla_mork"/>
+
+    <TextView
+        android:id="@+id/historie_spiller"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_gravity="center_vertical"
+        android:textSize="20sp"
+        android:textColor="@color/bla_mork"/>
+
+    <TextView
+        android:id="@+id/historie_gruppe"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.5"
+        android:layout_gravity="center_vertical"
+        android:textColor="@color/bla_mork"
+        android:textSize="20sp" />
+
+    <ImageView
+        android:id="@+id/historie_kategori"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_marginHorizontal="6dp"
+        android:src="@drawable/symbol_bilde"
+        android:contentDescription="@string/kategori" />
+
+    <ImageView
+        android:id="@+id/historie_level"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_marginHorizontal="6dp"
+        android:src="@drawable/level_ekspert"
+        android:contentDescription="@string/niva" />
+
+    <TextView
+        android:id="@+id/historie_dato"
+        android:minWidth="70dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:textSize="12sp"
+        android:textColor="@color/bla_mork"/>
+
+</LinearLayout>
+

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="title">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginStart">16dp</item>
+        <item name="android:layout_marginTop">6dp</item>
+        <item name="android:layout_marginEnd">6dp</item>
+        <item name="android:fontFamily">@font/aclonica</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/bla_mork</item>
+        <item name="android:textSize">36sp</item>
+    </style>
+
+    <style name="button">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginHorizontal">16dp</item>
+        <item name="android:layout_marginTop">16dp</item>
+        <item name="android:backgroundTint">@color/bla_mork</item>
+        <item name="android:fontFamily">@font/aclonica</item>
+        <item name="android:paddingHorizontal">10dp</item>
+        <item name="android:paddingVertical">10dp</item>
+        <item name="android:textSize">21sp</item>
+        <item name="android:textColor">@color/hvit</item>
+    </style>
+
+    <style name="tekst_knapp">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">16dp</item>
+        <item name="android:layout_marginTop">16dp</item>
+        <item name="android:layout_marginHorizontal">16dp</item>
+        <item name="android:paddingTop">10dp</item>
+        <item name="android:paddingBottom">10dp</item>
+        <item name="android:textColor">@color/hvit</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">21sp</item>
+        <item name="android:capitalize">sentences</item>
+    </style>
+
+    <style name="tekst">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginStart">16dp</item>
+        <item name="android:layout_marginTop">16dp</item>
+        <item name="android:layout_marginEnd">16dp</item>
+        <item name="android:textColor">@color/bla_mork</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="tekst_Q">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginStart">6dp</item>
+        <item name="android:layout_marginTop">24dp</item>
+        <item name="android:layout_marginEnd">6dp</item>
+        <item name="android:paddingHorizontal">6dp</item>
+        <item name="android:textColor">@color/hvit</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:background">@drawable/bakgrunn</item>
+        <item name="android:padding">6dp</item>
+    </style>
+
+    <style name="tekst_A">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginStart">6dp</item>
+        <item name="android:layout_marginTop">4dp</item>
+        <item name="android:layout_marginEnd">6dp</item>
+        <item name="android:textColor">@color/bla_mork</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:padding">6dp</item>
+        <item name="android:textColorLink">@color/bla</item>
+        <item name="android:autoLink">web</item>
+    </style>
+
+</resources>

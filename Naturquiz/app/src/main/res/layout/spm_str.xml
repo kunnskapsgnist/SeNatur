@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/str_bakgrunn"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/gradient_bla"
+        tools:context=".Spm_str">
+
+        <TextView
+            android:id="@+id/str_tittel"
+            style="@style/title"
+            android:text="@string/vingespenn"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.0" />
+
+        <TextView
+            android:id="@+id/str_tekst"
+            android:text="@string/plasser_fuglene_fra_kortest_til_lengst"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="6dp"
+            android:gravity="center"
+            android:textColor="@color/bla_mork"
+            android:textSize="24sp"
+            app:layout_constraintTop_toBottomOf="@+id/str_tittel" />
+
+        <ImageView
+            android:id="@+id/str_internett"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:visibility="gone"
+            android:background="@drawable/gradient_bla"
+            app:layout_constraintTop_toBottomOf="@+id/str_tekst"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:elevation="5dp"
+            android:src="@drawable/mangler_internet"
+            android:contentDescription="@string/mangler_internett" />
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/str_kort_nr1"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_margin="16dp"
+            app:cardBackgroundColor="@color/bla_mork"
+            android:shadowColor="@color/bla"
+            app:cardCornerRadius="10dp"
+            app:layout_constraintTop_toBottomOf="@+id/str_tekst">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <com.android.volley.toolbox.NetworkImageView
+                    android:id="@+id/str_bilde_nr1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_margin="10dp"
+                    android:layout_gravity="center"/>
+
+                <TextView
+                    android:id="@+id/str_art_nr1"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:layout_margin="10dp"
+                    android:textColor="@color/hvit"
+                    android:textStyle="bold"
+                    android:textSize="20sp"
+                    android:gravity="center_vertical"/>
+
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/str_kort_nr2"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_margin="16dp"
+            app:cardBackgroundColor="@color/bla_mork"
+            app:cardCornerRadius="10dp"
+            app:layout_constraintTop_toBottomOf="@+id/str_kort_nr1">
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <com.android.volley.toolbox.NetworkImageView
+                    android:id="@+id/str_bilde_nr2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_margin="10dp"
+                    android:layout_gravity="center"/>
+
+                <TextView
+                    android:id="@+id/str_art_nr2"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:layout_margin="10dp"
+                    android:textColor="@color/hvit"
+                    android:textStyle="bold"
+                    android:textSize="20sp"
+                    android:gravity="center_vertical"/>
+
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/str_kort_nr3"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_margin="16dp"
+            app:cardBackgroundColor="@color/bla_mork"
+            android:shadowColor="@color/bla"
+            app:cardCornerRadius="10dp"
+            app:layout_constraintTop_toBottomOf="@+id/str_kort_nr2">
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <com.android.volley.toolbox.NetworkImageView
+                    android:id="@+id/str_bilde_nr3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_margin="10dp"
+                    android:layout_gravity="center"/>
+
+                <TextView
+                    android:id="@+id/str_art_nr3"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:layout_margin="10dp"
+                    android:textColor="@color/hvit"
+                    android:textStyle="bold"
+                    android:textSize="20sp"
+                    android:gravity="center_vertical"/>
+
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/str_kort_nr4"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_margin="16dp"
+            app:cardBackgroundColor="@color/bla_mork"
+            app:cardCornerRadius="10dp"
+            app:layout_constraintTop_toBottomOf="@+id/str_kort_nr3">
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <com.android.volley.toolbox.NetworkImageView
+                    android:id="@+id/str_bilde_nr4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_margin="10dp"
+                    android:layout_gravity="center"/>
+
+                <TextView
+                    android:id="@+id/str_art_nr4"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:layout_margin="10dp"
+                    android:textColor="@color/hvit"
+                    android:textStyle="bold"
+                    android:textSize="20sp"
+                    android:gravity="center_vertical"/>
+
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+        <Button
+            android:id="@+id/str_svar"
+            style="@style/button"
+            android:layout_width="wrap_content"
+            android:layout_marginBottom="16dp"
+            android:layout_gravity="bottom|center"
+            app:cornerRadius="10dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:text="@string/svar"/>
+
+        <TextView
+            android:id="@+id/str_poeng"
+            android:elevation="10dp"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="16dp"
+            android:layout_marginBottom="16dp"
+            android:textColor="@color/bla_mork"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toStartOf="@+id/str_svar"
+            android:gravity="start" />
+
+        <TextView
+            android:id="@+id/str_antall"
+            android:elevation="10dp"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="16dp"
+            android:layout_marginBottom="16dp"
+            android:textColor="@color/bla_mork"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/str_svar"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:gravity="end" />
+
+        <com.android.volley.toolbox.NetworkImageView
+            android:id="@+id/str_bilde_stor"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="gone"
+            android:background="@drawable/gradient_bla"
+            android:padding="16dp"
+            android:elevation="10dp"
+            android:contentDescription="@string/klikk_forminske"/>
+
+        <ImageView
+            android:id="@+id/str_stor_lukk"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginTop="16dp"
+            android:visibility="gone"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            android:elevation="12dp"
+            android:src="@drawable/symbol_lukk"
+            android:contentDescription="@string/lukk" />
+
+        <ImageView
+            android:id="@+id/str_stor_cc"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginBottom="16dp"
+            android:visibility="gone"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintBottom_toBottomOf="parent"
+            android:elevation="12dp"
+            android:src="@drawable/symbol_cc"
+            android:contentDescription="@string/copyright" />
+
+        <!-- Copyright info -->
+        <LinearLayout
+            android:id="@+id/str_cc_lag"
+            android:visibility="gone"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="16dp"
+            android:background="@drawable/bakgrunn_kant"
+            android:elevation="15dp"
+            android:orientation="vertical"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView
+                    style="@style/tekst"
+                    android:layout_width="65dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginHorizontal="16dp"
+                    android:text="@string/eier" />
+
+                <TextView
+                    android:id="@+id/str_cc_eier"
+                    style="@style/tekst"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_marginEnd="16dp"
+                    android:gravity="start"
+                    android:layout_marginStart="0dp" />
+
+                <ImageView
+                    android:id="@+id/str_cc_lukk"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="6dp"
+                    android:contentDescription="@string/lukk"
+                    android:src="@drawable/symbol_lukk" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView
+                    style="@style/tekst"
+                    android:layout_width="65dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginHorizontal="16dp"
+                    android:text="@string/lisens" />
+
+                <TextView
+                    android:id="@+id/str_cc_lisens"
+                    style="@style/tekst"
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="16dp"
+                    android:gravity="start"
+                    android:layout_marginStart="0dp" />
+
+            </LinearLayout>
+
+            <ImageView
+                android:id="@+id/str_cc_lenke"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="16dp"
+                android:contentDescription="@string/lenke"
+                android:src="@drawable/symbol_lenke"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/cc_lisens" />
+
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/str_hjelp_finger"
+            android:visibility="invisible"
+            app:srcCompat="@drawable/hjelp_finger"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintTop_toTopOf="@+id/str_kort_nr1"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="120dp"
+            android:elevation="15dp"
+            android:contentDescription="@string/help" />
+
+        <TextView
+            android:id="@+id/str_hjelp_tekst"
+            android:visibility="invisible"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="6dp"
+            app:layout_constraintTop_toBottomOf="@+id/str_hjelp_finger"
+            app:layout_constraintStart_toStartOf="@+id/str_hjelp_finger"
+            android:textSize="22sp"
+            android:gravity="center"
+            android:background="@color/hvit"
+            android:padding="10dp"
+            android:elevation="14dp"
+            android:textColor="@color/bla_mork"/>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</layout>

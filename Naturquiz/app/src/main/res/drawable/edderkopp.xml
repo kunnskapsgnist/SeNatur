@@ -1,0 +1,22 @@
+<vector android:height="100dp"
+    android:viewportHeight="100"
+    android:viewportWidth="100"
+    android:width="100dp"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <path
+        android:fillColor="@color/rod_mork"
+        android:pathData="
+        M46,60 a11,12 0 1,0 8,0 c1,0 0,-8 -1,-8 a1,1 0 1,0 -6,0 c-1,0 -2,8 -1,8
+        M50,2 c-.5,10 -.5,30 0,45 c.5,-10 .5,-30 0,-45"/>
+    <path
+        android:fillColor="@color/rod_mork"
+        android:pathData="
+        M54,59 l18,13 l-10,25 l14,-26 l-23,-15 v1
+        l20,4 l10,-15 l-11,12 l-18,-3 v1
+        l15,-4 l6,-15 l-8,13 l-14,4 v2
+        l12,-20 l-8,-25 l5,25 l-11,19
+        M46,59 l-18,13 l10,25 l-14,-26 l23,-15 v1
+        l-20,4 l-10,-15 l11,12 l18,-3 v1
+        l-15,-4 l-6,-15 l8,13 l14,4 v2
+        l-12,-20 l8,-25 l-5,25 l11,19"/>
+</vector>

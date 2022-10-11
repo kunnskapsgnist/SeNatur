@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "881909263595",
+    "project_id": "naturquiz",
+    "storage_bucket": "naturquiz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881909263595:android:6e7b57c004bb7352a122ae",
+        "android_client_info": {
+          "package_name": "com.kunnskapsgnist.naturquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881909263595-inu7012f7kspse9er7lna633rthoddik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWAziZWbrPoHFMYUZVZBoIFm58PnP4nc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881909263595-inu7012f7kspse9er7lna633rthoddik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

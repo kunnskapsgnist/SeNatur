@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/karin/Documents/AndroidStudio-Testing/Naturquiz/app/src/main/res/drawable/bakgrunn_bunn.xml" value="0.1115" />
+        <entry key="..\:/Users/karin/Documents/AndroidStudio-Testing/Naturquiz/app/src/main/res/drawable/gradient_bla.xml" value="0.1" />
+        <entry key="..\:/Users/karin/Documents/AndroidStudio-Testing/Naturquiz/app/src/main/res/drawable/gradient_bla_blank.xml" value="0.1" />
+        <entry key="..\:/Users/karin/Documents/AndroidStudio-Testing/Naturquiz/app/src/main/res/drawable/gradient_brun_blank.xml" value="0.1" />
+        <entry key="..\:/Users/karin/Documents/AndroidStudio-Testing/Naturquiz/app/src/main/res/drawable/gradient_gronn_blank.xml" value="0.1" />
+        <entry key="..\:/Users/karin/Documents/AndroidStudio-Testing/Naturquiz/app/src/main/res/drawable/gradient_lilla_blank.xml" value="0.1" />
+        <entry key="..\:/Users/karin/Documents/AndroidStudio-Testing/Naturquiz/app/src/main/res/drawable/gradient_rod_blank.xml" value="0.1" />
+        <entry key="..\:/Users/karin/Documents/AndroidStudio-Testing/Naturquiz/app/src/main/res/layout/menu_artene_kort.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/karin/Documents/AndroidStudio-Testing/Naturquiz/app/src/main/res/layout/meny_artene.xml" value="0.22" />
+        <entry key="..\:/Users/karin/Documents/AndroidStudio-Testing/Naturquiz/app/src/main/res/layout/meny_historie.xml" value="0.1" />
+        <entry key="..\:/Users/karin/Documents/AndroidStudio-Testing/Naturquiz/app/src/main/res/layout/meny_historie_poeng.xml" value="0.1" />
+        <entry key="..\:/Users/karin/Documents/AndroidStudio-Testing/Naturquiz/app/src/main/res/layout/meny_logg_inn.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/karin/Documents/AndroidStudio-Testing/Naturquiz/app/src/main/res/layout/meny_om.xml" value="0.1" />
+        <entry key="..\:/Users/karin/Documents/AndroidStudio-Testing/Naturquiz/app/src/main/res/layout/meny_oppgradering.xml" value="0.22" />
+        <entry key="..\:/Users/karin/Documents/AndroidStudio-Testing/Naturquiz/app/src/main/res/layout/meny_opprett_bruker.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/karin/Documents/AndroidStudio-Testing/Naturquiz/app/src/main/res/layout/meny_prestasjoner.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/karin/Documents/AndroidStudio-Testing/Naturquiz/app/src/main/res/layout/meny_profil.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/karin/Documents/AndroidStudio-Testing/Naturquiz/app/src/main/res/layout/resultat.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/karin/Documents/AndroidStudio-Testing/Naturquiz/app/src/main/res/layout/spm_fotspor.xml" value="0.22" />
+        <entry key="..\:/Users/karin/Documents/AndroidStudio-Testing/Naturquiz/app/src/main/res/layout/start.xml" value="0.1" />
+        <entry key="..\:/Users/karin/Documents/AndroidStudio-Testing/Naturquiz/app/src/main/res/layout/start_oppsett.xml" value="0.1" />
+        <entry key="..\:/Users/karin/Documents/AndroidStudio-Testing/Naturquiz/app/src/main/res/layout/valg.xml" value="0.1" />
+        <entry key="..\:/Users/karin/Documents/AndroidStudio-Testing/Naturquiz/app/src/main/res/menu/meny.xml" value="0.17552083333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>

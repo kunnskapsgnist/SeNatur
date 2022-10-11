@@ -1,0 +1,25 @@
+<vector
+    android:tint="@color/bla_mork"
+    android:height="40dp"
+    android:viewportHeight="140"
+    android:viewportWidth="140"
+    android:width="40dp"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:strokeColor="@color/svart" android:strokeWidth="5"
+        android:strokeLineJoin="round" android:strokeLineCap="round"
+        android:pathData="M90,135
+        l-30,-15 m-47,-25 l-8,-5
+        l15,-30 m25,-47 l5,-8
+        l30,15 m47,25 l8,5
+        l-15,30 m-25,47 l-5,8" />
+    <path android:strokeColor="@color/svart" android:strokeWidth="5"
+        android:strokeLineJoin="round" android:strokeLineCap="round"
+        android:pathData="M110,130
+        l-50,-10 m-40,-7.5 l-10,-2.5
+        l10,-50 m7.5,-40 l2.5,-10
+        l50,10 m40,7.5 l10,2.5
+        l-10,50 m-7.5,40 l-2.5,10" />
+    <path android:strokeColor="@color/svart" android:strokeWidth="5"
+        android:strokeLineJoin="round" android:strokeLineCap="round"
+        android:pathData="M120,120 h-100 v-100 h100 v100" />
+</vector>

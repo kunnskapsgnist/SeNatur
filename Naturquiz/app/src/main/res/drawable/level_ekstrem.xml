@@ -1,0 +1,35 @@
+<vector
+    android:tint="@color/svart"
+    android:autoMirrored="true"
+    android:height="40dp"
+    android:viewportHeight="26"
+    android:viewportWidth="26"
+    android:width="40dp"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <path
+        android:fillColor="@color/svart"
+        android:pathData="
+        M13,20 l9.25,5 l-3.625,-8.75 l7.5,-6.25 l-9.375,-0.625 l-3.75,-8.125
+        l-3.75,8.125 l-9.375,0.625 l7.5,6.25 l-3.625,8.75 l9.25,-5
+        "/>
+    <path
+        android:strokeColor="@color/svart" android:strokeWidth="1"
+        android:strokeLineCap="round"
+        android:pathData="
+        M8,8 l-4,-5
+        M18,8 l4,-5
+        M6,16.5 l-5,1.5
+        M20,16.5 l5,1.5
+        M13,21 l0,4
+        M9,6.5 l-.5,-3
+        M17,6.5 l.5,-3
+        M6,8.5 l-3,-1
+        M20,8.5 l3,-1
+        M5,15.5 l-3,-1
+        M6,18 l-2,2.5
+        M21,15.5 l3,-1
+        M20,18 l2,2.5
+        M11.5,22 l-2,2
+        M14.5,22 l2,2
+        "/>
+</vector>
