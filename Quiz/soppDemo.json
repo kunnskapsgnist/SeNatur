@@ -1,10 +1,10 @@
 [
-  [8168319,"Rød fluesopp","Amanitaceae",[0,0],[0,0]],
-  [7496350,"Rødnende fluesopp","Amanitaceae",[0,0],[0,0]],
-  [7765582,"Brun kamfluesopp","Amanitaceae",[0,0],[0,0]],
-  [5240248,"Brun fluesopp","Amanitaceae",[0,0],[0,0]],
-  [5240279,"Svartringfluesopp","Amanitaceae",[0,0],[0,0]],
-  [5240323,"Hvit fluesopp","Amanitaceae",[0,0],[0,0]],
-  [5249504,"Kantarell","Cantharellaceae",[0,0],[0,0]],
-  [2554536,"Traktkantarell","Cantharellaceae",[0,0],[0,0]]
+  [5249504,"Kantarell","Cantharellaceae",[0,0],[0,0],"kantarell_0000.jpg"],
+  [2554536,"Traktkantarell","Cantharellaceae",[0,0],[0,0],"traktkantarell_0000.jpg"],
+  [8168319,"Rød fluesopp","Amanitaceae",[0,0],[0,0],"rod_fluesopp_0000.jpg"],
+  [7496350,"Rødnende fluesopp","Amanitaceae",[0,0],[0,0],"rodnende_fluesopp_0000.jpg"],
+  [7765582,"Brun kamfluesopp","Amanitaceae",[0,0],[0,0],"brun_kamfluesopp_0000.jpg"],
+  [5240248,"Brun fluesopp","Amanitaceae",[0,0],[0,0],"brun_fluesopp_0000.jpg"],
+  [5240279,"Svartringfluesopp","Amanitaceae",[0,0],[0,0],"svartringfluesopp_0000.jpg"],
+  [5240323,"Hvit fluesopp","Amanitaceae",[0,0],[0,0],"hvit_fluesopp_0000.jpg"]
 ]
