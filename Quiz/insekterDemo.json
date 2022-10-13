@@ -1,12 +1,12 @@
 [
-  [1340405,"Åkerhumle","Langtungebier",[0,0],[0,0]],
-  [1428334,"Svarthøstlibelle","Speidelibeller",[43,52],[0,0]],
-  [1340305,"Markhumle","Langtungebier",[0,0],[0,0]],
-  [1425264,"Brunlibelle","Storlibeller",[96,104],[0,0]],
-  [1340513,"Trehumle","Langtungebier",[0,0],[0,0]],
-  [1425221,"Starrlibelle","Storlibeller",[88,96],[0,0]],
-  [1427915,"Firflekkbredlibelle","Speidelibeller",[70,80],[0,0]],
-  [1340298,"Lys jordhumle","Langtungebier",[0,0],[0,0]],
-  [1536449,"Dobbeltbåndet blomsterflue","Blomsterfluer",[0,0],[0,0]],
-  [4990191,"Sjuprikket marihøne","Marihøner",[0,0],[0,0]]
+  [1340405,"Åkerhumle","Langtungebier",[0,0],[0,0],"akerhumle_0001.jpg"],
+  [1428334,"Svarthøstlibelle","Speidelibeller",[43,52],[0,0],"svarthostlibelle_0001.jpg"],
+  [1340305,"Markhumle","Langtungebier",[0,0],[0,0],"markhumle_0001.jpg"],
+  [1425264,"Brunlibelle","Storlibeller",[96,104],[0,0],"brunlibelle_0001.jpg"],
+  [1340513,"Trehumle","Langtungebier",[0,0],[0,0],"trehumle_0001.jpg"],
+  [1425221,"Starrlibelle","Storlibeller",[88,96],[0,0],"starrlibelle_0001.jpg"],
+  [1427915,"Firflekkbredlibelle","Speidelibeller",[70,80],[0,0],"firflekkbredlibelle_0001.jpg"],
+  [1340298,"Lys jordhumle","Langtungebier",[0,0],[0,0],"lys jordhumle_0001.jpg"],
+  [1536449,"Dobbeltbåndet blomsterflue","Blomsterfluer",[0,0],[0,0],"dobbeltbandet blomsterflue_0001.jpg"],
+  [4990191,"Sjuprikket marihøne","Marihøner",[0,0],[0,0],"sjuprikket marihone_0001.jpg"]
 ]
