@@ -1,7 +1,10 @@
 [
-  [2160133,"Korsedderkopp","Hjulspinnere",[0,0],[0,0]],
-  [2150764,"Lyngrovedderkopp","Rovedderkopper",[0,0],[0,0]],
-  [2142177,"Tremoseedderkopp","Tremoseedderkopper",[0,0],[0,0]],
-  [2158999,"Husnattvever","Hjulspinnere",[0,0],[0,0]],
-  [2182588,"Skogflått","Flått",[0,0],[0,0]]
+  [2160133,"Korsedderkopp","Hjulspinnere",[0,0],[0,0],"korsedderkopp_0001.jpg"],
+  [2150764,"Lyngrovedderkopp","Rovedderkopper",[0,0],[0,0],"lyngrovedderkopp_0001.jpg"],
+  [2142177,"Tremoseedderkopp","Tremoseedderkopper",[0,0],[0,0],"tremoseedderkopp_0001.jpg"],
+  [2158999,"Husnattvever","Hjulspinnere",[0,0],[0,0],"husnattvever_0001.jpg"],
+  [2182588,"Skogflått","Flått",[0,0],[0,0],"skogflatt_0001.jpg"],
+  [2172595,"Sebrahopper","Hoppeedderkopper",[0,0],[0,0],"sebrahopper_0001.jpg"],
+  [2146241,"Engulveedderkopp","Ulveedderkopper",[0,0],[0,0],"engulveedderkopp_0001.jpg"],
+  [2157233,"Husenkeedderkopp","Kamfotedderkopper",[0,0],[0,0],"husenkeedderkopp_0001.jpg"]
 ]
