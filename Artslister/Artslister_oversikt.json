@@ -1,17 +1,17 @@
 [
-  ["Fugl","Fugl_1","De 100 mest vanlige artene","2024-02-15",5,""],
-  ["Fugl","Fugl_2","100 mindre vanlige arter","2024-02-15",5,""],
-  ["Fugl","Fugl_3","100 sjeldne vanlige arter","2024-02-15",5,""],
-  ["Plante","Plante_1","De 100 mest vanlige artene","2024-02-15",5,""],
-  ["Plante","Plante_2","100 mindre vanlige arter","2024-02-15",5,""],
-  ["Plante","Gress_og_siv","Gress- og sivarter","2024-02-15",5,""],
-  ["Sopp","Sopp_1","De 100 mest vanlige artene","2024-02-15",5,""],
-  ["Sopp","Sopp_2","100 mindre vanlige arter","2024-02-15",5,""],
-  ["Sopp","Sopp_3","100 sjeldne vanlige arter","2024-02-15",5,""],
+  ["Fugl","Fugl 1","De 100 mest vanlige artene","2024-02-15",5,""],
+  ["Fugl","Fugl 2","100 mindre vanlige arter","2024-02-15",5,""],
+  ["Fugl","Fugl 3","100 sjeldne vanlige arter","2024-02-15",5,""],
+  ["Plante","Plante 1","De 100 mest vanlige artene","2024-02-15",5,""],
+  ["Plante","Plante 2","100 mindre vanlige arter","2024-02-15",5,""],
+  ["Plante","Gress og siv","Gress- og sivarter","2024-02-15",5,""],
+  ["Sopp","Sopp 1","De 100 mest vanlige artene","2024-02-15",5,""],
+  ["Sopp","Sopp 2","100 mindre vanlige arter","2024-02-15",5,""],
+  ["Sopp","Sopp 3","100 sjeldne vanlige arter","2024-02-15",5,""],
   ["Insekt","Dagsommerfugler","100 dagsommerfugler","2024-02-15",5,""],
   ["Dyr","Pattedyr","Alle ville pattedyr observert i Norge","2024-02-19",100,"dyr"],
   ["Dyr","Amfibier","6 amfibier observert i Norge","2024-02-19",6,"dyr_slange"],
-  ["Fisk","Fisk_1","De 100 mest vanlige artene","2024-02-15",5,""],
-  ["Fisk","Fisk_2","100 mindre vanlige arter","2024-02-15",5,"fisk"],
+  ["Fisk","Fisk 1","De 100 mest vanlige artene","2024-02-15",5,""],
+  ["Fisk","Fisk 2","100 mindre vanlige arter","2024-02-15",5,"fisk"]
 ]
 
