@@ -1,7 +1,7 @@
 [
-  ["Fisk","Fisk_1","De 100 mest vanlige artene","2024-02-15",5],
-  ["Fisk","Fisk_2","100 mindre vanlige arter","2024-02-15",5],
-  ["Dyr","Pattedyr","Alle ville pattedyr observert i Norge","2024-02-19",100],
-  ["Dyr","Amfibier","6 amfibier observert i Norge","2024-02-19",6]
+  ["Fisk","Fisk_1","De 100 mest vanlige artene","2024-02-15",5,""],
+  ["Fisk","Fisk_2","100 mindre vanlige arter","2024-02-15",5,"fisk"],
+  ["Dyr","Pattedyr","Alle ville pattedyr observert i Norge","2024-02-19",100,"dyr"],
+  ["Dyr","Amfibier","6 amfibier observert i Norge","2024-02-19",6,"dyr_slange"]
 ]
 
