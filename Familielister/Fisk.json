@@ -1,0 +1,14 @@
+[
+  {"gbif":"8615","familie":"Salmonidae","orden":"Salmoniformes","no_familie":"Laksefamilien","no_orden":"Laksefisker","no_beskrivelse":"","bildemappe":""},
+  {"gbif":"3701","familie":"Gadidae","orden":"Gadiformes","no_familie":"Torskefamilien","no_orden":"Torskefisker","no_beskrivelse":"","bildemappe":""},
+  {"gbif":"4481","familie":"Percidae","orden":"Perciformes","no_familie":"Abborfamilien","no_orden":"Piggfinnefisker","no_beskrivelse":"","bildemappe":""},
+  {"gbif":"8596","familie":"Scombridae","orden":"Perciformes","no_familie":"Makrellfamilien","no_orden":"Piggfinnefisker","no_beskrivelse":"","bildemappe":""},
+  {"gbif":"7336","familie":"Cyprinidae","orden":"Cypriniformes","no_familie":"Karpefamilien","no_orden":"Karpefisker","no_beskrivelse":"","bildemappe":""},
+  {"gbif":"7662","familie":"Esocidae","orden":"Esociformes","no_familie":"Gjeddefamilien","no_orden":"Gjeddefisker","no_beskrivelse":"","bildemappe":""},
+  {"gbif":"8535","familie":"Labridae","orden":"Perciformes","no_familie":"Leppefiskfamilien","no_orden":"Piggfinnefisker","no_beskrivelse":"","bildemappe":""},
+  {"gbif":"2949","familie":"Anguillidae","orden":"Anguilliformes","no_familie":"Ålefamilien","no_orden":"Ålefisker","no_beskrivelse":"","bildemappe":""},
+  {"gbif":"8621","familie":"Cottidae","orden":"Scorpaeniformes","no_familie":"Ulkefamilien","no_orden":"Ulkefisker","no_beskrivelse":"","bildemappe":""},
+  {"gbif":"8611","familie":"Pleuronectidae","orden":"Pleuronectiformes","no_familie":"Flyndrefamilien","no_orden":"Flyndrefisker","no_beskrivelse":"","bildemappe":""},
+  {"gbif":"7666","familie":"Gasterosteidae","orden":"Gasterosteiformes","no_familie":"Stingsildfamilien","no_orden":"Stiklingfisker","no_beskrivelse":"","bildemappe":""}
+]
+
