@@ -3,13 +3,32 @@
   ["Fugl","Fugl 2",1,"2024-02-25","100 vanlige arter","","fugl_maker"],
   ["Fugl","Fugl 3",1,"2024-02-25","200 mindre vanlige arter","","fugl_rovfugl"],
   ["Fugl","Fugl 4",1,"2024-02-25","122 sjeldne arter","","fugl_vader"],
-  ["Plante","Plante 1",2,"2024-02-15","De 100 mest vanlige artene","",""],
-  ["Plante","Plante 2",1,"2024-02-15","100 mindre vanlige arter","",""],
-  ["Plante","Gress og siv",1,"2024-02-15","Gress- og sivarter","","plante_gress"],
+  ["Plante","Blomster 1",2,"2024-02-25","15 av de vanligeste blomsterartene for nybegynneren","",""],
+  ["Plante","Blomster 2",1,"2024-02-25","200 ganske vanlige blomsterartene for den interesserte","",""],
+  ["Plante","Blomster 3",1,"2024-02-25","500 blomsterarter for den viderekommende","",""],
+  ["Plante","Blomster 4",1,"2024-02-25","546 sjeldne blomsterarter for orakelet ","",""],
+  ["Plante","Bregner",1,"2024-02-25","41 bregnearter","",""],
+  ["Plante","Busker og trær 1",1,"2024-02-25","150 arter av busker og trær","","plante_tre"],
+  ["Plante","Busker og trær 2",1,"2024-02-25","134 mer sjeldne arter av busker og trær","","plante_tre"],
+  ["Plante","Slyngeplanter",1,"2024-02-25","29 arter av Slyngeplanter","","plante_slynge"],
+  ["Plante","Siv og gress",1,"2024-02-25","232 arter av siv og gress for den spesielt interesserte","","plante_gress"],
   ["Sopp","Sopp 1",2,"2024-02-15","De 100 mest vanlige artene","",""],
   ["Sopp","Sopp 2",1,"2024-02-15","100 mindre vanlige arter","",""],
   ["Sopp","Sopp 3",1,"2024-02-15","100 sjeldne vanlige arter","",""],
-  ["Insekt","Dagsommerfugler",2,"2024-02-15","100 dagsommerfugler","",""],
+  ["Insekt","Sommerfugler 1",2,"2024-02-25","20 av de mest vanlige sommerfuglene","",""],
+  ["Insekt","Sommerfugler 2",1,"2024-02-25","300 vanlige sommerfugler","",""],
+  ["Insekt","Sommerfugler 3",1,"2024-02-25","924 mer sjeldne sommerfugler","",""],
+  ["Insekt","Edderkoppdyr 1",1,"2024-02-25","100 edderkoppdyr","",""],
+  ["Insekt","Edderkoppdyr 2",1,"2024-02-25","177 mer sjeldne edderkoppdyr","",""],
+  ["Insekt","Øyenstikkerlignende",1,"2024-02-25","70 arter som ligner på øyenstikkere","",""],
+  ["Insekt","Gresshoppere",1,"2024-02-25","29 arter av gresshoppere","",""],
+  ["Insekt","Veps, humler og bier",1,"2024-02-25","124 varianter av veps, humler og bier","",""],
+  ["Insekt","Tovinger",1,"2024-02-25","192 arter av tovinger, f.eks. diverse blomsterfluer","",""],
+  ["Insekt","Biller",1,"2024-02-25","296 billearter","",""],
+  ["Insekt","Biller uten norsk navn",1,"2024-02-25","177 billearter som kun har latinsk egennavn","",""],
+  ["Insekt","Maur og mangefotinger",1,"2024-02-25","61 arter av maur, mangefotinger og enkelte andre arter","",""],
+  ["Insekt","Nebbmunner",1,"2024-02-25","51 arter av nebbmunner","",""],
+  ["Insekt","Sjødyr, kreps og snegler",1,"2024-02-25","130 arter av småkryp der de fleste lever i vann","",""],
   ["Dyr","Vanlige dyr",2,"2024-02-15","12 vanlige, ville pattedyr i Norge","","dyr"],
   ["Dyr","Landpattedyr",1,"2024-02-15","55 ville pattedyr observert i Norge","","dyr"],
   ["Dyr","Sjøpattedyr",1,"2024-02-15","29 sjøpattedyr observert i Norge","","dyr_delfin"],
@@ -18,8 +37,4 @@
   ["Fisk","Fisk 2",1,"2024-02-26","100 vanlige arter","","fisk_al"],
   ["Fisk","Fisk 3",1,"2024-02-15","100 mindre vanlige arter","","fisk_flyndre"]
 ]
-12	Vanlige dyr
-55	Landpattedyr
-10	Amfibier
-29	Sjøpattedyr
 
