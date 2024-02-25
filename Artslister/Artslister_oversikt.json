@@ -10,10 +10,16 @@
   ["Sopp","Sopp 2",1,"2024-02-15","100 mindre vanlige arter","",""],
   ["Sopp","Sopp 3",1,"2024-02-15","100 sjeldne vanlige arter","",""],
   ["Insekt","Dagsommerfugler",2,"2024-02-15","100 dagsommerfugler","",""],
-  ["Dyr","Pattedyr",1,"2024-02-15","Alle ville pattedyr observert i Norge","","dyr"],
-  ["Dyr","Amfibier",1,"2024-02-15","6 amfibier observert i Norge","","dyr_slange"],
+  ["Dyr","Vanlige dyr",2,"2024-02-15","12 vanlige, ville pattedyr i Norge","","dyr"],
+  ["Dyr","Landpattedyr",1,"2024-02-15","55 ville pattedyr observert i Norge","","dyr"],
+  ["Dyr","Sjøpattedyr",1,"2024-02-15","29 sjøpattedyr observert i Norge","","dyr_delfin"],
+  ["Dyr","Amfibier",1,"2024-02-15","10 arter av amfibier og reptiler observert i Norge","","dyr_slange"],
   ["Fisk","Fisk 1",2,"2024-02-26","10 arter","","fisk"],
   ["Fisk","Fisk 2",1,"2024-02-26","100 vanlige arter","","fisk_al"],
   ["Fisk","Fisk 3",1,"2024-02-15","100 mindre vanlige arter","","fisk_flyndre"]
 ]
+12	Vanlige dyr
+55	Landpattedyr
+10	Amfibier
+29	Sjøpattedyr
 
