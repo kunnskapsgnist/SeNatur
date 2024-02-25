@@ -1,17 +1,18 @@
 [
-  ["Fugl","Fugl 1","De 100 mest vanlige artene","2024-02-15",5,""],
-  ["Fugl","Fugl 2","100 mindre vanlige arter","2024-02-15",5,""],
-  ["Fugl","Fugl 3","100 sjeldne vanlige arter","2024-02-15",5,""],
-  ["Plante","Plante 1","De 100 mest vanlige artene","2024-02-15",5,""],
-  ["Plante","Plante 2","100 mindre vanlige arter","2024-02-15",5,""],
-  ["Plante","Gress og siv","Gress- og sivarter","2024-02-15",5,"plante_gress"],
-  ["Sopp","Sopp 1","De 100 mest vanlige artene","2024-02-15",5,""],
-  ["Sopp","Sopp 2","100 mindre vanlige arter","2024-02-15",5,""],
-  ["Sopp","Sopp 3","100 sjeldne vanlige arter","2024-02-15",5,""],
-  ["Insekt","Dagsommerfugler","100 dagsommerfugler","2024-02-15",5,""],
-  ["Dyr","Pattedyr","Alle ville pattedyr observert i Norge","2024-02-19",100,"dyr"],
-  ["Dyr","Amfibier","6 amfibier observert i Norge","2024-02-19",6,"dyr_slange"],
-  ["Fisk","Fisk 1","De 100 mest vanlige artene","2024-02-20",5,""],
-  ["Fisk","Fisk 2","100 mindre vanlige arter","2024-02-15",5,"fisk"]
+  ["Fugl","Fugl 1",2,"2024-02-15","De 100 mest vanlige artene","",""],
+  ["Fugl","Fugl 2",1,"2024-02-15","100 mindre vanlige arter","",""],
+  ["Fugl","Fugl 3",1,"2024-02-15","100 sjeldne vanlige arter","",""],
+  ["Plante","Plante 1",2,"2024-02-15","De 100 mest vanlige artene",""],
+  ["Plante","Plante 2",1,"2024-02-15","100 mindre vanlige arter","",""],
+  ["Plante","Gress og siv",1,"2024-02-15","Gress- og sivarter","","plante_gress"],
+  ["Sopp","Sopp 1",2,"2024-02-15","De 100 mest vanlige artene","",""],
+  ["Sopp","Sopp 2",1,"2024-02-15","100 mindre vanlige arter","",""],
+  ["Sopp","Sopp 3",1,"2024-02-15","100 sjeldne vanlige arter","",""],
+  ["Insekt","Dagsommerfugler",2,"2024-02-15","100 dagsommerfugler","",""],
+  ["Dyr","Pattedyr",1,"2024-02-15","Alle ville pattedyr observert i Norge","","dyr"],
+  ["Dyr","Amfibier",1,"2024-02-15","6 amfibier observert i Norge","","dyr_slange"],
+  ["Fisk","Fisk 1",2,"2024-02-15","De 10 mest vanlige artene","",""],
+  ["Fisk","Fisk 2",1,"2024-02-15","100 vanlige arter","",""],
+  ["Fisk","Fisk 3",1,"2024-02-15","100 mindre vanlige arter","","fisk"]
 ]
 
