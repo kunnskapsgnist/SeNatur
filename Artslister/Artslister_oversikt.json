@@ -31,11 +31,11 @@
   ["Insekt","Maur, mangefotinger mm.",1,"2024-02-25","61 arter av maur, mangefotinger og enkelte andre arter","","insekt_maur"],
   ["Insekt","Nebbmunner",1,"2024-02-25","51 arter av nebbmunner","","insekt_nebbtege"],
   ["Insekt","Sjødyr, kreps og snegler",1,"2024-02-25","130 arter av småkryp der de fleste lever i vann","","insekt_krabbe"],
-  ["Dyr","Vanlige dyr",2,"2024-02-15","12 vanlige, ville pattedyr i Norge","","dyr"],
-  ["Dyr","Landpattedyr",1,"2024-02-15","55 ville pattedyr observert i Norge","","dyr"],
-  ["Dyr","Sjøpattedyr",1,"2024-02-15","29 sjøpattedyr observert i Norge","","dyr_delfin"],
-  ["Dyr","Amfibier og reptiler",1,"2024-02-15","10 arter av amfibier og reptiler observert i Norge","","dyr_slange"],
-  ["Fisk","Fisk 1",2,"2024-02-28","10 arter for nybegynneren","","fisk"],
+  ["Dyr","Vanlige dyr",2,"2024-02-25","12 vanlige, ville pattedyr i Norge","","dyr"],
+  ["Dyr","Landpattedyr",1,"2024-02-25","55 ville pattedyr observert i Norge","","dyr"],
+  ["Dyr","Sjøpattedyr",1,"2024-02-25","29 sjøpattedyr observert i Norge","","dyr_delfin"],
+  ["Dyr","Amfibier og reptiler",1,"2024-02-25","10 arter av amfibier og reptiler observert i Norge","","dyr_slange"],
+  ["Fisk","Fisk 1",2,"2024-02-29","10 arter for nybegynneren","","fisk"],
   ["Fisk","Fisk 2",1,"2024-02-26","Foreløpig 37 vanlige arter for interesserte","","fisk_al"]
 ]
 
