@@ -3,7 +3,7 @@
     {"id":"11","bilde1":"knopper_ask_00.png","tittel":"Svarte knopper","tekst":"Grågrønne årskudd"},
     {"id":"11A","bilde1":"knopper_ask_00.png","tittel":"Ask","gbif":"3172358","tekst":"Stammen er kraftig og rak. Barken er glatt og grågrønn. På gamle trær er barken noe grovere. Greinene er grove med karakteristisk bøy oppover aller ytterst. Knoppene er fløyelssvarte."},
     {"id":"12","bilde1":"knopper_lonn_gammel_00.png","tittel":"Grønne eller rødlige knopper","tekst":"Lysbrune til gråbrune årsskudd"},
-    {"id":"12A","bilde1":"knopper_lonn_ung_00.png","bilde2":"knopper_lonn_gammel_00.png","tittel":"Lønn","gbif":3189846,"tekst":"Knoppene er motsatte på langskudd hos yngre individer. Eldre trær har nesten bare kortskudd og årsskuddene har få knopper - ofte bare en stor endeknopp med to små sideknopper rett nedenfor. Derfor er greinene ofte gaffeldelte og ender i to skudd med hver sin endeknopp."},
+    {"id":"12A","bilde1":"knopper_lonn_ung_00.png","bilde2":"knopper_lonn_gammel_00.png","tittel":"Lønn","gbif":"3189846","tekst":"Knoppene er motsatte på langskudd hos yngre individer. Eldre trær har nesten bare kortskudd og årsskuddene har få knopper - ofte bare en stor endeknopp med to små sideknopper rett nedenfor. Derfor er greinene ofte gaffeldelte og ender i to skudd med hver sin endeknopp."},
     {"id":"2","bilde1":"knopper_selje_01.png","tittel":"Spredte knopper"},
     {"id":"21","bilde1":"knopper_selje_02.png","tittel":"Bare ett knoppskjell","tekst":"Knoppskjellet ligger rundt hele knoppen"},
     {"id":"21A","bilde1":"knopper_selje_00.png","tittel":"Selje","gbif":"5372952","tekst": "Sittende knopper med gulaktige eller brune knoppskjell"},
