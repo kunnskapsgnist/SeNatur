@@ -1,7 +1,7 @@
 [
-    {"id":"F0","bilde1":"Dyr/Ekornfamilien#ekorn_00.jpg","tittel":"Ekorn","gbif":"8211070","tekst":"En skikkelig søtnos som lever i trær"},
-    {"id":"F1","bilde1":"Dyr/Hundefamilien#rodrev_00.jpg","tittel":"Rødrev","gbif":"5219243","tekst":"En staselig luring"},
-    {"id":"F2","bilde1":"Dyr/Bjornefamilien#brunbjorn_00.jpg","tittel":"Brunbjørn","gbif":"2433433","tekst":"En stor bamse med overraskende smidig kropp"}
+    {"id":"F0","bilde":"Dyr/Ekornfamilien#ekorn_00.jpg","tittel":"Ekorn","gbif":"8211070","tekst":"En skikkelig søtnos som lever i trær"},
+    {"id":"F1","bilde":"Dyr/Hundefamilien#rodrev_00.jpg","tittel":"Rødrev","gbif":"5219243","tekst":"En staselig luring"},
+    {"id":"F2","bilde":"Dyr/Bjornefamilien#brunbjorn_00.jpg","tittel":"Brunbjørn","gbif":"2433433","tekst":"En stor bamse med overraskende smidig kropp"}
 ]
 
 
