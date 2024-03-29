@@ -1,9 +1,18 @@
 [
-    {"id":"N1","bilde":"dyr_frosk","tittel":"Hele fuglen er mørk"},
-    {"id":"N11","bilde":"Ekte_frosker#buttsnutefrosk_04.jpg","tittel":"Stor","tekst":"Helt kullsvart. En eller få samlet."},
-    {"id":"N11A","bilde":"Ekte_frosker#buttsnutefrosk_09.jpg","tittel":"Ravn"},
-    {"id":"N12","bilde":"Ekte_frosker#buttsnutefrosk_04.jpg","tittel":"Mindre","tekst":"Svart rundt nebbet og vingene, ellers mørkegrå. Vanligvis flere samlet."},
-    {"id":"N12A","bilde":"Ekte_frosker#buttsnutefrosk_09.jpg","tittel":"Kaie"},
-    {"id":"N2","bilde":"dyr_frosk","tittel":"Svart, grå og hvit"},
-    {"id":"N3","bilde":"dyr_frosk","tittel":"Fargerik"}
+    {"id":"N1","bilde":"Krakefamilien#kaie_01.jpg","tittel":"Hele fuglen er mørk","tekst":"Nebbet kan ha annen farge"},
+    {"id":"N11","bilde":"Krakefamilien#ravn_00.jpg","tittel":"Stor","tekst":"Helt kullsvart. En eller få fugler samlet."},
+    {"id":"N11A","bilde":"Krakefamilien#ravn_06.jpg","tittel":"Ravn"},
+    {"id":"N13","bilde":"Krakefamilien#Kornkrake_00.jpg","tittel":"Mindre","tekst":""},
+    {"id":"N13A","bilde":"Krakefamilien#Kornkrake_00.jpg","tittel":"Kornkråke"},
+    {"id":"N14","bilde":"Krakefamilien#Svartkrake_00.jpg","tittel":"Mindre","tekst":""},
+    {"id":"N14A","bilde":"Krakefamilien#Svartkrake_00.jpg","tittel":"Svartkråke"},
+    {"id":"N12","bilde":"Krakefamilien#kaie_03.jpg","tittel":"Mindre","tekst":"Vanligvis i flokk. Svart rundt nebbet og vingene, ellers mørkegrå. Svart nebb."},
+    {"id":"N12A","bilde":"Krakefamilien#kaie_02.jpg","tittel":"Kaie"},
+    {"id":"N2","bilde":"Krakefamilien#krake_00.jpg","tittel":"Svart, grå og hvit","tekst":"Kråke, skjære, nøttekråke"},
+    {"id":"N21","bilde":"Krakefamilien#krake_01.jpg","tittel":"Kråke","tekst":""},
+    {"id":"N22","bilde":"Krakefamilien#nottekrake_01.jpg","tittel":"Nøttekråke","tekst":""},
+    {"id":"N23","bilde":"Krakefamilien#skjare_02.jpg","tittel":"Skjære","tekst":""},
+    {"id":"N3","bilde":"Krakefamilien#kaie_03.jpg","tittel":"Fargerik","tekst":"lavskrike, nøtteskrike"},
+    {"id":"N31","bilde":"Krakefamilien#lavskrike_00.jpg","tittel":"Lavskrike","tekst":""},
+    {"id":"N32","bilde":"Krakefamilien#notteskrike_00.jpg","tittel":"Nøtteskrike","tekst":""}
 ]
