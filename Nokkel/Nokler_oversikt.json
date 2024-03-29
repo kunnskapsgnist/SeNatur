@@ -1,6 +1,7 @@
 [
-  ["Plante",  "Vinter14",   "14 løvarter om vinteren",    "plante_kvist","Basert på Lids Flora og Norsk Botanisk Forenings Nettflora"],
-  ["Dyr",     "Pattedyr",   "Våre vanligste pattedyr",    "dyr_ekorn",   "Basert på diverse beskrivelser"],
-  ["Dyr",     "Reptiler",   "Reptiler og amfibier",       "dyr_slange",  "Basert på beskrivelser av artene"]
+  ["Plante",  "VinterLiten",   "14 løvarter om vinteren",    "plante_kvist","Basert på Lids Flora og Norsk Botanisk Forenings Nettflora"],
+  ["Plante",  "BladerLiten",   "Bladene til vanlige løvtrær","plante_blad", "Basert på diverse beskrivelser av artene"],
+  ["Dyr",     "Pattedyr",      "Våre vanligste pattedyr",    "dyr_ekorn",   "Basert på diverse beskrivelser"],
+  ["Dyr",     "Reptiler",      "Reptiler og amfibier",       "dyr_slange",  "Basert på beskrivelser av artene"]
 ]
 
