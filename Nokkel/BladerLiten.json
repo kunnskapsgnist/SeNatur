@@ -22,12 +22,12 @@
     {"id":"N2","bilde":"Bjorkefamilien#bjork_91.png","tittel":"Mer vanlige blader"},
     {"id":"N21","bilde":"Vierfamilien#selje_91.png","tittel":"Avlange, smale blader","tekst":"Lengden er minst to ganger bredden"},
     {"id":"N211","bilde":"Vierfamilien#selje_91.png","tittel":"Glatt kant","info":"","tekst":"Stive blad som er mørke på oversiden, og har kruste hår på undersiden"},
-    {"id":"N211A","bilde":"Vierfamilien#selje_91.png","tittel":"Selje","info":"i","gbif":"","tekst":"."},
+    {"id":"N211A","bilde":"Vierfamilien#selje_91.png","tittel":"Selje","info":"i","gbif":"5372952","tekst":"."},
     {"id":"N212","bilde":"Almefamilien#alm_91.png","tittel":"Tannete kant","tekst":""},
     {"id":"N2121","bilde":"Almefamilien#alm_91.png","tittel":"Hårete, ru blader med tydelig tannete kant","tekst":""},
     {"id":"N2121A","bilde":"Almefamilien#alm_91.png","tittel":"Alm","gbif":"5361866","info":"i","tekst":"Dekket av mange korte, stive hår. Den korte stilken dekkes ofte av bladet fra den ene siden."},
     {"id":"N2122","bilde":"Rosefamilien#hegg_91.png","tittel":"Glatte blader med småtenner langs kanten","tekst":""},
-    {"id":"N2122A","bilde":"Rosefamilien#hegg_91.png","tittel":"Hegg","info":"i","gbif":"","tekst":"Hovednervene er forbundet med løkker"},
+    {"id":"N2122A","bilde":"Rosefamilien#hegg_91.png","tittel":"Hegg","info":"i","gbif":"3021037","tekst":"Hovednervene er forbundet med løkker"},
     {"id":"N22","bilde":"Bjorkefamilien#bjork_91.png","tittel":"Lengden er mindre enn to ganger bredden"},
     {"id":"N221","bilde":"Vierfamilien#osp_91.png","tittel":"Tynne blader","tekst":"Bjørk og osp"},
     {"id":"N2211","bilde":"Bjorkefamilien#bjork_91.png","tittel":"Tuppen er spiss","tekst":"Bjørk"},
@@ -48,9 +48,9 @@
     {"id":"N22211A","bilde":"Bokefamilien#bok_91.png","tittel":"Bøk","gbif":"2882316","info":"i","tekst":"Unge blader er lysegrønne og hårete. Eldre er mørkegrønne og blanke."},
     {"id":"N22222","bilde":"Bjorkefamilien#graor_91.png","tittel":"Tannete kant","tekst":"Or"},
     {"id":"N222221","bilde":"Bjorkefamilien#graor_91.png","tittel":"Spiss tupp","tekst":"Matte blader med litt blek underside"},
-    {"id":"N222221A","bilde":"Bjorkefamilien#graor_91.png","tittel":"Gråor","tekst":""},
-    {"id":"N222222","bilde":"","tittel":"Butt tuppe, ofte litt innover på tuppen","tekst":""},
-    {"id":"N222222A","bilde":"","tittel":"Svartor","tekst":""}
+    {"id":"N222221A","bilde":"Bjorkefamilien#graor_91.png","tittel":"Gråor","gbif":"9148577","info":"i","tekst":""},
+    {"id":"N222222","bilde":"Bjorkefamilien#svartor_91.png","tittel":"Butt tupp, ofte litt innover på tuppen","tekst":""},
+    {"id":"N222222A","bilde":"Bjorkefamilien#svartor_91.png","tittel":"Svartor","gbif":"2876213","info":"i","tekst":""}
 ]
 
 
