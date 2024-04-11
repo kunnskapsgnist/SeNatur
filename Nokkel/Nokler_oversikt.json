@@ -1,9 +1,15 @@
 [
-  ["E7WIZ zNWGt vPbJW",     "Fugl",    "Kraker",        "Kråkefamilien",              "fugl_krake",  "Kråkefamilien", "Basert på diverse beskrivelser", "Kråke Svartkråke Ravn Kornkråke Kaie Lavskrike Nøtteskrike Skjære"],
-  ["klar",                  "Plante",  "VinterLiten",   "14 løvarter om vinteren",    "plante_kvist","",              "Basert på Lids Flora og Norsk Botanisk Forenings Nettflora",""],
-  ["E7WIZ zNWGt vPbJW",     "Plante",  "BladerLiten",   "Bladene til vanlige løvtrær","plante_blad", "",              "Basert på diverse beskrivelser av artene",""],
-  ["E7WIZ zNWGt",           "Dyr",     "Pattedyr",      "Våre vanligste pattedyr",    "dyr_ekorn",   "",              "Basert på diverse beskrivelser",""],
-  ["klar",                  "Dyr",     "Reptiler",      "Reptiler og amfibier",       "dyr_slange",  "",              "Basert på beskrivelser av artene",""],
-  ["E7WIZ zNWGt",           "Plante",  "Valmuer",       "Valmuefamilien",             "blomst_bla",  "Valmuefamilien","Basert på Lids Flora",""]
+  ["E7WIZ zNWGt vPbJW",     "Fugl",    "Kraker",        "Kråkefamilien",              "fugl_krake",  "Basert på diverse beskrivelser",
+  "Kråkefamilien", "Kråke Svartkråke Ravn Kornkråke Kaie Lavskrike Nøtteskrike Skjære"],
+  ["klar",                  "Plante",  "VinterLiten",   "14 løvarter om vinteren",    "plante_kvist","Basert på Lids Flora og Norsk Botanisk Forenings Nettflora",
+  "",""],
+  ["E7WIZ zNWGt vPbJW",     "Plante",  "BladerLiten",   "Bladene til vanlige løvtrær","plante_blad", "Basert på diverse beskrivelser av artene",
+  "",""],
+  ["E7WIZ zNWGt",           "Dyr",     "Pattedyr",      "Våre vanligste pattedyr",    "dyr_ekorn",   "Basert på diverse beskrivelser",
+  "",""],
+  ["klar",                  "Dyr",     "Reptiler",      "Reptiler og amfibier",       "dyr_slange",  "Basert på beskrivelser av artene",
+  "",""],
+  ["E7WIZ zNWGt",           "Plante",  "Valmuer",       "Valmuefamilien",             "blomst_bla",  "Basert på Lids Flora",
+  "Valmuefamilien","Lerkespore"]
 ]
 
