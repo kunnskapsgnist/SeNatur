@@ -1,15 +1,16 @@
 [
   ["E7WIZ zNWGt vPbJW",     "Fugl",    "Kraker",        "Kråkefamilien",              "fugl_krake",  "Basert på diverse beskrivelser",
-  "Kråkefamilien", "Kråke Svartkråke Ravn Kornkråke Kaie Lavskrike Nøtteskrike Skjære"],
+    "Kråkefamilien Kråkelignende", "Kråke Svartkråke Ravn Kornkråke Kaie Lavskrike Nøtteskrike Skjære"],
   ["klar",                  "Plante",  "VinterLiten",   "14 løvarter om vinteren",    "plante_kvist","Basert på Lids Flora og Norsk Botanisk Forenings Nettflora",
-  "",""],
+    "",""],
   ["E7WIZ zNWGt vPbJW",     "Plante",  "BladerLiten",   "Bladene til vanlige løvtrær","plante_blad", "Basert på diverse beskrivelser av artene",
-  "",""],
+    "",""],
+    ["E7WIZ zNWGt",           "Plante",  "Valmuer",       "Valmuefamilien",             "blomst_bla",  "Basert på Lids Flora",
+    "Valmuefamilien","Lerkespore"],
   ["E7WIZ zNWGt",           "Dyr",     "Pattedyr",      "Våre vanligste pattedyr",    "dyr_ekorn",   "Basert på diverse beskrivelser",
-  "",""],
+    "Reptiler Amfibie Ekte frosker Ekte padder Ekte salamandere Firfisler Hoggormer Snoker Stålormer",
+    "Damfrosk Spissnutefrosk Buttsnutefrosk Nordpadde Firfisle Småsalamander Storsalamander Stålorm Buorm Slettsnok Hoggorm"],
   ["klar",                  "Dyr",     "Reptiler",      "Reptiler og amfibier",       "dyr_slange",  "Basert på beskrivelser av artene",
-  "",""],
-  ["E7WIZ zNWGt",           "Plante",  "Valmuer",       "Valmuefamilien",             "blomst_bla",  "Basert på Lids Flora",
-  "Valmuefamilien","Lerkespore"]
+    "",""]
 ]
 
