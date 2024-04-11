@@ -1,5 +1,5 @@
 [
-    {"id":"N1","bilde":"Oliventrefamilien#ask_91.png","tittel":"Blader med særtrekk","tekst":"Hjerter, flere småblader, lappete, håndlikete"},
+    {"id":"N1","bilde":"blader_spesielle.png","tittel":"Blader med særtrekk","tekst":"Hjerter, flere småblader, lappete, håndlikete"},
     {"id":"N11","bilde":"Oliventrefamilien#ask_91.png","tittel":"Flere småblader","tekst":"Rogn, ask og kastanje"},
     {"id":"N111","bilde":"Oliventrefamilien#ask_91.png","tittel":"Småbladene sitter på samme bladstilk","tekst":""},
     {"id":"N1111","bilde":"Oliventrefamilien#ask_91.png","tittel":"Ask","tekst":""},
@@ -19,7 +19,7 @@
     {"id":"N12221A","bilde":"Bokefamilien#sommereik_91.png","tittel":"Sommereik","info":"i","gbif":"3152047","tekst":"Noen nerveender kan ende mellom flikene.\nOBS! Hybrider mellom sommer- og vintereik er vanlig."},
     {"id":"N12222","bilde":"Bokefamilien#vintereik_91.png","tittel":"Lengre stilk uten bladører","tekst":"Kileformet mot stilken"},
     {"id":"N12222A","bilde":"Bokefamilien#vintereik_91.png","tittel":"Vintereik","info":"i","gbif":"3152047","tekst":"Alle hovednerveender ender i fliker.\nOBS! Hybrider mellom sommer- og vintereik er vanlig."},
-    {"id":"N2","bilde":"Bjorkefamilien#bjork_91.png","tittel":"Mer vanlige blader","tekst":"Runde, avlange, spisse"},
+    {"id":"N2","bilde":"blader_vanlige#bjork_91.png","tittel":"Mer vanlige blader","tekst":"Runde, avlange, spisse"},
     {"id":"N21","bilde":"Vierfamilien#selje_91.png","tittel":"Avlange, smale blader","tekst":"Lengden er minst to ganger bredden"},
     {"id":"N211","bilde":"Vierfamilien#selje_91.png","tittel":"Glatt kant","info":"","tekst":"Stive blad som er mørke på oversiden, og har kruste hår på undersiden"},
     {"id":"N211A","bilde":"Vierfamilien#selje_91.png","tittel":"Selje","info":"i","gbif":"5372952","tekst":"."},
