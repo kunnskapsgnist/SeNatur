@@ -28,7 +28,7 @@
   ["Insekt","Tovinger",                 "2024-03-21","192 arter av tovinger, f.eks. diverse blomsterfluer","insekt_flue"],
   ["Insekt","Biller",                   "2024-03-21","296 billearter","insekt_marihone"],
   ["Insekt","Biller uten norsk navn",   "2024-03-21","177 billearter som kun har latinsk egennavn","insekt_biller"],
-  ["Insekt","Maur, mangefotinger mm.",  "2024-03-21","61 arter av maur, mangefotinger og enkelte andre arter","insekt_maur"],
+  ["Insekt","Maur, mangefotinger mm",   "2024-03-21","61 arter av maur, mangefotinger og enkelte andre arter","insekt_maur"],
   ["Insekt","Nebbmunner",               "2024-03-21","51 arter av nebbmunner","insekt_nebbtege"],
   ["Insekt","Sjødyr, kreps og snegler", "2024-03-21","130 arter av småkryp der de fleste lever i vann","insekt_krabbe"],
   ["Dyr", "Vanlige dyr",                "2024-03-22","10 dyr for nybegynneren (trenger ikke abonnement for å registere funn)","dyr"],
