@@ -1,10 +1,10 @@
 [
   ["E7WIZ zNWGt vPbJW",     "Fugl",    "FuglKraker",        "Kråkefamilien",              "fugl_krake",        "Basert på diverse beskrivelser",
     "Kråkefamilien Kråkelignende", "Kråke Svartkråke Ravn Kornkråke Kaie Lavskrike Nøtteskrike Skjære"],
-  ["klar",                  "Plante",  "PlanteTreVinter",   "14 løvarter om vinteren",    "plante_kvist",     "Basert på Lids Flora og Norsk Botanisk Forenings Nettflora",
+  ["klar",                  "Plante",  "PlanteTreVinter",   "Løvtrær om vinteren",        "plante_kvist",     "Basert på Lids Flora og Norsk Botanisk Forenings Nettflora",
     "",""],
-  ["E7WIZ zNWGt vPbJW",     "Plante",  "PlanteTreBlader",   "Bladene til vanlige løvtrær","plante_blad",      "Basert på diverse beskrivelser av artene",
-    "",""],
+  ["E7WIZ zNWGt vPbJW",     "Plante",  "PlanteTreBlader",   "Blader på løvtrær",          "plante_blad",      "Basert på diverse beskrivelser av artene",
+    "","Ask Rogn Hestekastanje Spisslønn Lind Sommereik Vintereik Selje Alm Hegg Bjørk Osp Hassel Alm Bøk Gråor Svartor"],
   ["E7WIZ zNWGt",           "Plante",  "PlanteValmuer",     "Valmuefamilien",             "blomst",           "Basert på Lids Flora",
     "Valmuefamilien",
     "Svaleurt Kornvalmue Opiumsvalmue Kjempevalmue Sibirvalmue Polarvalmue Svalbardvalmue Gul hornvalmue Gul valmuesøster Jordrøyk Klengelerkespore Lerkespore Fingerlerkespore Hagelerkespore Gul lerkespore Småhjerte Løytnanshjerte"],
