@@ -1,5 +1,5 @@
 [
-    {"id":"N1","bilde":"symmetri_r","tittel":"Radiærsymmetrisk krone","tekst":""},
+    {"id":"N1","bilde":"symmetri_r.png","tittel":"Radiærsymmetrisk krone","tekst":""},
     {"id":"N11","bilde":"Klokkefamilien#blaklokke_0010.jpg","tittel":"Klokkeflikene er sammenvokst et stykke ut","tekst":""},
     {"id":"N111","bilde":"Klokkefamilien#skjeggklokke_0004.jpg","tittel":"Små ytterbegerblad mellom klokkeflikene","tekst":"Ser ut som to lag med grønne begerblad"},
     {"id":"N111A","bilde":"Klokkefamilien#skjeggklokke_0001.jpg","tittel":"Skjeggklokke","gbif":"5409958","tekst":"Klokkene er lyseblå, 2-3 cm lange, henger i en liten klase og har skjegg på klokkeflikene innvendig. Skjeggklokke har avlange blader. Både stegel og blad har stive hår. "},
@@ -37,7 +37,7 @@
     {"id":"N121A","bilde":"Klokkefamilien#blamunke_0002.jpg","tittel":"Blåmunke","gbif":"8366345","tekst":"Blåmunke har en lyseblå krone med fem smale kronfliker. Blomstene er ca. 2 cm bred kurv med brede, tannete støtteblad. Stengelen er hårete nederst og grunnbladene er hårete, smale og mange. Stengelen har mange blader nederst"},
     {"id":"N122","bilde":"Klokkefamilien#vadderot_0001.jpg","tittel":"Klokker i toppen eller langs stengelen","tekst":"Enkelklokker har støtteblad"},
     {"id":"N122A","bilde":"Klokkefamilien#vadderot_0005.jpg","tittel":"Vadderot","gbif":"3166841","tekst":"Vaddderot har blå eller lys krone. Den har fem kronfliker som er sammenvokst og en hårete griffel i mditen. De nederste bladene er nyreformet eller hjerteformet med lange stilker og sagtenner. De øverste bladene er smale."},
-    {"id":"N2","bilde":"symmetri_mono","tittel":"Monosymmetrisk","tekst":"To lepper"},
+    {"id":"N2","bilde":"symmetri_mono.png","tittel":"Monosymmetrisk","tekst":"To lepper"},
     {"id":"N21","bilde":"Klokkefamilien#botnegras_0004.jpg","tittel":"Vannplante","tekst":""},
     {"id":"N21A","bilde":"Klokkefamilien#botnegras_0002.jpg","tittel":"Botnegras","gbif":"5408512","tekst":"Botnegras er en vannplante med bladrosett nederst og små blader på stengelen. Rosettbladene er butte og linjeformede. Kronen er hvit eller lyseblå."},
     {"id":"N22","bilde":"Klokkefamilien#hagelobelia_00.jpg","tittel":"Landplante","tekst":""},
