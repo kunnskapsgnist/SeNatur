@@ -39,7 +39,7 @@
     {"id":"N222221222A","bilde":"knopper_hegg_01.png","tittel":"Hegg","info":"i","gbif":"3021037","tekst": "Årsskuddene er mørkebrune med lyse prikker. Skraper du litt i barken, vil du merke en tydelig bitter mandellukt."},
     {"id":"N222222","bilde":"knopper_hassel_00.png","tittel":"Knoppene er mer runde","info":"i"},
     {"id":"N2222221","bilde":"Bokefamilien#sommereik_01.jpg","tittel":"Lysebrune knopper med skjell i fem rekker", "tekst":"Knoppen ser femkantet ut sett fra tuppen"},
-    {"id":"N2222221A","bilde":"Bokefamilien#sommereik_02.jpg","tittel":"Eik","info":"i","gbif":"2878688","info":"i","tekst":"Årsskuddene er relativt korte og stive. De sitter mange sammen fra omtrent samme punkt og spriker til flere sider. På årsskuddene sitter knoppene tettere og tettere sammen mot spissen."},
+    {"id":"N2222221A","bilde":"Bokefamilien#sommereik_02.jpg","tittel":"Eik","info":"i","gbif":"2878688","tekst":"Årsskuddene er relativt korte og stive. De sitter mange sammen fra omtrent samme punkt og spriker til flere sider. På årsskuddene sitter knoppene tettere og tettere sammen mot spissen."},
     {"id":"N2222222","bilde":"knopper_hassel_00.png","tittel":"Knoppskjellene sitter ikke i fem rekker","info":"i"},
     {"id":"N22222221","bilde":"Rosefamilien#rogn_90.png","tittel":"Avlange, store knopper","info":"i","tekst":"Brunsvarte knopper som ofte er delvis dekket av gråaktig filt"},
     {"id":"N22222221A","bilde":"Rosefamilien#rogn_90.png","tittel":"Rogn","info":"i","gbif":"3012167","tekst":"På langskuddene er det ganske langt mellom knoppene. Barken er glinsende grå med lange korkvorter på tvers. På eldre trær blir barken mørkegrå og sprekker opp."},
@@ -47,7 +47,7 @@
     {"id":"N222222221","bilde":"knopper_lind_00.png","tittel":"Bare to knoppskjell","info":"i","tekst":"Det ene knoppskjellet er svært kort og står litt ut"},
     {"id":"N222222221A","bilde":"knopper_lind_01.png","tittel":"Lind","info":"i","gbif":"3152047","tekst":"Både knopper og årsskudd er blanke. På soleksponerte steder er knoppene ofte rødfargete. Barken blank og mørkebrun:"},
     {"id":"N222222222","bilde":"knopper_hassel_00.png","tittel":"Mer enn to knoppskjell","info":"i","tekst":"Knoppskjellene er ikke veldig blanke"},
-    {"id":"N2222222221","bilde":"knopper_hassel_00.png","tittel":"Runde knopper med tettsittende skjell","info":"i","tekst":"Knoppene er butte, litt flattrykte, gulbrune eller grønnaktige"},
+    {"id":"N2222222221","bilde":"knopper_hassel_00.png","tittel":"Runde knopper med tettsittende skjell","info":"i","tekst":"Knoppene er butte, gulbrune eller grønnaktige, og de store knoppene er litt flattrykte"},
     {"id":"N2222222221A","bilde":"Bjorkefamilien#hassel_90.png","tittel":"Hassel","info":"i","gbif":"2875979","tekst": "Ofte tydelige rester av kjertelhår på årsskuddene. Vokser ofte med mange tynne stammer fra samme punkt i en buskllignende form, men kan også være tykke trær på 5-6 meter høyde."},
     {"id":"N2222222222","bilde":"Bjorkefamilien#bjork_90.png","tittel":"Spissere knopper med uryddige skjell", "info":"i","tekst":"Knoppene er ofte spraglet brunsvart og grønne, ofte påfallende små"},
     {"id":"N2222222222A","bilde":"Bjorkefamilien#bjork_90.png","tittel":"Bjørk","info":"i","gbif":"9118014","tekst":"Kvistene har ikke kjertelhår, men årsskuddene kan være fløyelshårete eller dekket av harpiksvorter. Barken er hvit, men yngre trær kan ha rødlig bark og eldre mørk, grov bark."}
