@@ -8,7 +8,7 @@
     "&#x2776; Trykk på menyen (de tre prikkene øverst til høyre)<br>&#x2777; Velg \"Mine naturfunn\"<br>Jeg vil nå se en liste over arter.",
     ""],
     ["Hvordan kan jeg registrere funn?",
-    "Når jeg er i \"Mine naturfunn\", kan jeg<br>&#x25BA; trykke på pluss-symbolet for å registrere ett funn<br>&#x25BA; trykke på tallet ved siden av for å registrere flere funn av samme art",
+    "Når jeg er i \"Mine naturfunn\", kan jeg<br>&#x25C6; trykke på pluss-symbolet for å registrere ett funn<br>&#x25C6; trykke på tallet ved siden av for å registrere flere funn av samme art",
     ""],
     ["Jeg kan bare registere funn på noen få arter",
     "Jeg kan bare registere funn på noen få arter uten å abonnere. <br><br>Hvis jeg vil registrere funn på flere arter, må jeg abonnere for å dekke kostnadene til ekstern database. <br>&#x2776; Trykk på menyen (de tre prikkene øverst til høyre)<br>&#x2777;  Velg \"Mine abonnement\"<br>&#x2778; Start abonnement for den/de artstypen(e) jeg ønsker",
@@ -43,7 +43,8 @@
     "Alle abonnementer må avsluttes i Google App Store<br><br>&#x2776; Trykk på menyen (de tre prikkene øverst til høyre)<br>&#x2777; Velg \"Mine abonnement\"<br>&#x2778; Trykk \"Avbryt\" på det abonnementet jeg ønsker å avbryte",
     ""],
     ["Om å slette data...","",""],
-    ["Hvordan sletter jeg mine funn?","Hvis jeg ønsker å slette funn fra min mobil, har jeg to muligheter:<b>I appen:<\b><br>&#x2776; Trykk på menyen (de tre prikkene øverst til høyre)<br>&#x2777; Velg \"Min profil\"<br>&#x2778; Trykk på \"Slett mine funn fra enheten\" helt nederst<br>&#x2779; Bekreft ved å trykke \"Ja\"<br><br><b>I innstillingene på mobilen/nettbrettet mitt</b>:<br>&#x2776; Gå til innstillinger på enheten<br>&#x2777; Velg \"Apper\"<br&#x2778; Finn \"Naturfunn\"<br>&#x2779; Velg \"Lagring\" (litt forskjellige navn på forskjellige enheter)<br>&#x2780; Velg \"Tøm lagring\" (litt forskjellige navn på forskjellige enheter)<br> Dette vil slette alle data tilknyttet alle brukere på din enhet",
+    ["Hvordan sletter jeg mine funn?",
+    "Hvis jeg ønsker å slette funn fra min mobil, har jeg to muligheter:<br><br><b>I appen:<\b><br>&#x2776; Trykk på menyen (de tre prikkene øverst til høyre)<br>&#x2777; Velg \"Min profil\"<br>&#x2778; Trykk på \"Slett mine funn fra enheten\" helt nederst<br>&#x2779; Bekreft ved å trykke \"Ja\"<br><br><b>I innstillingene på mobilen/nettbrettet mitt</b>:<br>&#x2776; Gå til innstillinger på enheten<br>&#x2777; Velg \"Apper\"<br>&#x2778; Finn \"Naturfunn\"<br>&#x2779; Velg \"Lagring\" (litt forskjellige navn på forskjellige enheter)<br>&#x277A; Velg \"Tøm lagring\" (litt forskjellige navn på forskjellige enheter)<br> Dette vil slette alle data tilknyttet alle brukere på din enhet",
     ""],
     ["Hvordan sletter jeg kontoen min?",
     "Hvis jeg vil slette min konto, sender jeg en e-post til naturfunn@kunnskapsgnist.no fra den kontoen jeg logger inn med i appen. <br>Når jeg ber om å få slettet alle data tilknyttet min profil, vil det bli gjort.",
@@ -51,11 +52,11 @@
     ["Om artsobservasjoner...","",""],
     ["Hva er artsobservasjoner.no","<u>www.artsobservasjoner.no</u> er en fantastisk database der nye funn over hele landet registreres daglig","https://www.artsobservasjoner.no/"],
     ["Hvorfor skal jeg bruke Naturfunn i stedet for artsobservasjoner?",
-    "Jeg velger selvsagt selv. Og hvem har sagt at jeg ikke kan bruke begge? <br><br>Noen av fordelene med Naturfunn er:<br>&#x2776 Min posisjon og tidspunkt registreres automatisk når jeg registrerer et funn <br>&#x2777 Jeg slipper å styre med pen og papir når jeg er ute på tur <br>&#x2778 Naturfunn viser meg enkelt informajson om alle artene <br>&#x2779 Jeg kan se mine funn både kart og lister ved noen få klikk<br>&#x2780 Jeg kan utfordre min venner om hvem som ser flest arter <br>&#x2781 Jeg kan registrere også alle mine usikre funn (jeg bør være sikker på hva jeg har sett før jeg legger den inn i artsobservasjoner)",
+    "Jeg velger selvsagt selv. Og hvem har sagt at jeg ikke kan bruke begge? <br><br>Noen av fordelene med Naturfunn er:<br>&#x2776 Min posisjon og tidspunkt registreres automatisk når jeg registrerer et funn <br>&#x2777 Jeg slipper å styre med pen og papir når jeg er ute på tur <br>&#x2778 Naturfunn viser meg enkelt informajson om alle artene <br>&#x2779 Jeg kan se mine funn både kart og lister ved noen få klikk<br>&#x277A Jeg kan utfordre min venner om hvem som ser flest arter <br>&#x277B Jeg kan registrere også alle mine usikre funn (jeg bør være sikker på hva jeg har sett før jeg legger den inn i artsobservasjoner)",
     ""],
     ["Hvordan kan jeg overføre funn fra Naturfunn til artsobservasjoner.no?",
-    "&#x2776 Trykk på menyen (de tre prikkene øverst tl høyre<br>&#x2777 Velg \"Rapporter funn\"<br>&#x2778 Velg hva du vil rapportere <br>&#x2779 Sjekk funenne (bare funn med sikker artsbestemmelse bør rapporteres inn)<br>&#x2780 Lim inn funnene på artsobservasjoner.no",
+    "&#x2776 Trykk på menyen (de tre prikkene øverst tl høyre<br>&#x2777 Velg \"Rapporter funn\"<br>&#x2778 Velg hva du vil rapportere <br>&#x2779 Sjekk funenne (bare funn med sikker artsbestemmelse bør rapporteres inn)<br>&#x277A Lim inn funnene på artsobservasjoner.no",
     ""],
     ["Andre spørsmål...","",""],
-    ["Jeg fant ikke svar på mitt spørsmål her","Kontakt utviklerne på naturfunn@kunnskapsgnist.no",""]
+    ["Jeg fant ikke svar på mitt spørsmål her","Kontakt utviklerne på naturfunn@kunnskapsgnist.no <br>De vil gjerne hjelpe deg!",""]
 ]
