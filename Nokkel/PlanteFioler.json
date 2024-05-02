@@ -40,13 +40,13 @@
     {"id":"N2","bilde":"oreblad_fiol_stor.png","tittel":"Store øreblad","tekst":""},
     {"id":"N21","bilde":"Fiolfamilien#akerstemorsblom_0011.jpg","tittel":"Kronen er kortere eller like lang som begerbladene","tekst":""},
     {"id":"N21A","bilde":"Fiolfamilien#akerstemorsblom_0005.jpg","tittel":"Åkerstemorsblomst","gbif":"5331235","tekst":"Åkerstemorsblomst har avlange, rundtannete blad og store, dypt flikete øreblad. Sporen er omtrent like lang som skjørtet på begerbladene."},
-    {"id":"N22","bilde":"Fiolfamilien#akerstemorsblom_0031.jpg","tittel":"Kronen er lengre enn begerbladene","tekst":""},
-    {"id":"N221","bilde":"Fiolfamilien#akerstemorsblom_0027.jpg","tittel":"Kronen er 1.5-3.5 cm høy","tekst":""},
-    {"id":"N2211","bilde":"Fiolfamilien#akerstemorsblom_0007.jpg","tittel":"Sporen er 3-7 mm lang","tekst":"Kronbladene er flerfarget, sjeldent helt gule"},
-    {"id":"N2211A","bilde":"Fiolfamilien#stemorsblom_0026.jpg","tittel":"Stemorsblomst","gbif":"5331347","tekst":"Stemorsblomst har store, dypt flikete øreblad. Bladene er hjerteformet nederst og mer avlange og rundtannet øverst på stengelen. Sporen er 3-7 mm og er lengre enn skjøret på begerbladene."},
+    {"id":"N22","bilde":"Fiolfamilien#stemorsblom_0007.jpg","tittel":"Kronen er lengre enn begerbladene","tekst":""},
+    {"id":"N221","bilde":"Fiolfamilien#stemorsblom_0027.jpg","tittel":"Kronen er 1.5-3.5 cm høy","tekst":""},
+    {"id":"N2211","bilde":"Fiolfamilien#stemorsblom_0007.jpg","tittel":"Sporen er 3-7 mm lang","tekst":"Kronbladene er flerfarget, sjeldent helt gule"},
+    {"id":"N2211A","bilde":"Fiolfamilien#stemorsblom_0023.jpg","tittel":"Stemorsblomst","gbif":"5331347","tekst":"Stemorsblomst har store, dypt flikete øreblad. Bladene er hjerteformet nederst og mer avlange og rundtannet øverst på stengelen. Sporen er 3-7 mm og er lengre enn skjøret på begerbladene."},
     {"id":"N2212","bilde":"Fiolfamilien#hornfiol_02.jpg","tittel":"Sporen er 10-15 mm lang","tekst":"Kronen er fiolett, noen ganger flerfarget"},
     {"id":"N2212A","bilde":"Fiolfamilien#hornfiol_01.jpg","tittel":"Hornfiol","gbif":"7628663","tekst":"Hornfiol har eggeformede blad med hår på undersiden. Blomstene dufter godt. Kronen er 3-4 cm høy og kronbladene overlapper ikke. Sidekronbladene vender litt nedover"},
-    {"id":"N222","bilde":"Fiolfamilien#stemorsblom_0001.jpg","tittel":"Kronen er mer enn 3.5 cm høy","tekst":""},
-    {"id":"N222A","bilde":"Fiolfamilien#hagestemorsblom_0006.jpg","tittel":"Hagestemorsblomst","gbif":"7901652","tekst":"Hagestemorsblomst har rundtannete blader. Kronen er ofte ca. 5 cm høy med kronblad i mange fargevarianter."}
+    {"id":"N222","bilde":"Fiolfamilien#hagestemorsblom_0001.jpg","tittel":"Kronen er mer enn 3.5 cm høy","tekst":""},
+    {"id":"N222A","bilde":"Fiolfamilien#hagestemorsblom_01.jpg","tittel":"Hagestemorsblomst","gbif":"7901652","tekst":"Hagestemorsblomst har rundtannete blader. Kronen er ofte ca. 5 cm høy med kronblad i mange fargevarianter."}
 ]
 
