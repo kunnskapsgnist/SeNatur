@@ -63,6 +63,8 @@
   [3033131,"akeleiefrostjerne_0010.jpg","Jan Sørensen","CC BY 4.0","Akeleiefrøstjerne","https://www.artsobservasjoner.no/Image/478813"],
   [3033131,"akeleiefrostjerne_0011.jpg","Jan Sørensen","CC BY 4.0","Akeleiefrøstjerne","https://www.artsobservasjoner.no/Image/231680"],
   [3033131,"akeleiefrostjerne_0012.jpg","Gunnar Bureid","CC BY 4.0","Akeleiefrøstjerne","https://www.artsobservasjoner.no/Image/136729"],
+  [3928139,"alpehvitsoleie_01.jpg","Robert Flogaus-Faust","CC BY 4.0","Alpehvitsoleie","https://commons.wikimedia.org/wiki/File:Ranunculus_aconitifolius_RF.jpg"],
+  [3928139,"alpehvitsoleie_02.jpg","Meneerke bloem","CC BY-SA 3.0","Alpehvitsoleie","https://commons.wikimedia.org/wiki/File:Ranunculus_aconitifolius_06.jpg"],
   [3928139,"alpehvitsoleie_0001.jpg","Terje Spolén Nilsen","CC BY 4.0","Alpehvitsoleie","https://www.artsobservasjoner.no/Image/801818"],
   [3928139,"alpehvitsoleie_0002.jpg","Terje Spolén Nilsen","CC BY 4.0","Alpehvitsoleie","https://www.artsobservasjoner.no/Image/801816"],
   [3033599,"alpeklematis_0001.jpg","Jan Sørensen","CC BY 4.0","Alpeklematis","https://www.artsobservasjoner.no/Image/478055"],
@@ -747,6 +749,7 @@
   [7554812,"lappsoleie_0001.jpg","Gunnar Engan","CC BY 4.0","Lappsoleie","https://www.artsobservasjoner.no/Image/1022140"],
   [7554812,"lappsoleie_0002.jpg","Gunnar Engan","CC BY 4.0","Lappsoleie","https://www.artsobservasjoner.no/Image/1022463"],
   [3927846,"lodnesoleie_0001.jpg","Jens Kristiansen","CC BY-SA 4.0","Lodnesoleie","https://www.artsobservasjoner.no/Image/777054"],
+  [3927846,"lodnesoleie_0002.jpg","","","Lodnesoleie",""],
   [3928615,"mogop_0001.jpg","Ragnar Skrede","CC BY 4.0","Mogop","https://www.artsobservasjoner.no/Image/2537955"],
   [3928615,"mogop_0002.jpg","Jostein Elvestrand","CC BY-SA 4.0","Mogop","https://www.artsobservasjoner.no/Image/1952689"],
   [3928615,"mogop_0003.jpg","Ole Bjørn Braathen","CC BY 4.0","Mogop","https://www.artsobservasjoner.no/Image/2528675"],
@@ -852,6 +855,7 @@
   [8312717,"polarsoleie_0014.jpg","Arne Reitan","CC BY 4.0","Polarsoleie","https://www.artsobservasjoner.no/Image/2479920"],
   [8312717,"polarsoleie_0015.jpg","Arne Reitan","CC BY 4.0","Polarsoleie","https://www.artsobservasjoner.no/Image/2479784"],
   [8312717,"polarsoleie_0016.jpg","Arne Reitan","CC BY 4.0","Polarsoleie","https://www.artsobservasjoner.no/Image/2479783"],
+  [8312717,"polarsoleie_0017.jpg","Jan Ole Olsen","CC BY 4.0","Polarsoleie","https://www.artsobservasjoner.no/Image/1681298"],
   [3920712,"prakthjelm_0001.jpg","Rune Zakariassen","CC BY 4.0","Prakthjelm","https://www.artsobservasjoner.no/Image/811382"],
   [3920712,"prakthjelm_0002.jpg","Rune Zakariassen","CC BY 4.0","Prakthjelm","https://www.artsobservasjoner.no/Image/2448284"],
   [3920712,"prakthjelm_0003.jpg","Rune Zakariassen","CC BY 4.0","Prakthjelm","https://www.artsobservasjoner.no/Image/2448283"],
@@ -1187,5 +1191,8 @@
   [9094061,"varkal_0060.jpg","Jan Alsvik","CC BY 4.0","Vårkål","https://www.artsobservasjoner.no/Image/750585"],
   [9094061,"varkal_0061.jpg","Jan Alsvik","CC BY 4.0","Vårkål","https://www.artsobservasjoner.no/Image/744103"],
   [9094061,"varkal_0062.jpg","Jan Alsvik","CC BY 4.0","Vårkål","https://www.artsobservasjoner.no/Image/742005"],
-  [9094061,"varkal_0063.jpg","Jan Sørensen","CC BY 4.0","Vårkål","https://www.artsobservasjoner.no/Image/379849"]  
+  [9094061,"varkal_0063.jpg","Jan Sørensen","CC BY 4.0","Vårkål","https://www.artsobservasjoner.no/Image/379849"],
+  [3033354,"sumpsoleie_01.jpg","Kim Hansen","CC BY-SA 4.0","Sumpsoleie","https://commons.wikimedia.org/wiki/File:Ranunculus_hyperboreus_upernavik_2007-08-01_1.jpg"],
+  [3033354,"sumpsoleie_02.jpg","NPS / Jacob W. Frank: Denali National Park and Preserve","CC BY 2.0","Sumpsoleie","https://commons.wikimedia.org/wiki/File:Ranunculus_hyperboreus_(7833248604).jpg"],
+  [3926248,"fliksoleie_01.jpg","David McCorquodale","CC BY 4.0","Fliksoleie","https://commons.wikimedia.org/wiki/File:Ranunculus_pedatifidus.jpg"]
 ]
