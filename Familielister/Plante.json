@@ -82,7 +82,7 @@
   {"gbif":"6634","familie":"Cucurbitaceae","orden":"Cucurbitales","no_familie":"Gresskarfamilien","no_orden":"Gresskarordenen","no_beskrivelse":"","bildemappe":"Gresskarfamilien"},
   {"gbif":"2384","familie":"Cannabaceae","orden":"Rosales","no_familie":"Hampefamilien","no_orden":"Roseordenen","no_beskrivelse":"","bildemappe":"Hampefamilien"},
   {"gbif":"3722","familie":"Ruppiaceae","orden":"Alismatales","no_familie":"Havgrasfamilien","no_orden":"Vassgroordenen","no_beskrivelse":"","bildemappe":"Havgrasfamilien"},
-  {"gbif":"2419","familie":"Plumbaginaceae","orden":"Caryophyllales","no_familie":"Hinnebegerfamilien","no_orden":"Nellikordenen","no_beskrivelse":"","bildemappe":"Hinnebegerfamilien"},
+  {"gbif":"2419","familie":"Plumbaginaceae","orden":"Caryophyllales","no_familie":"Fjærekollfamilien","no_orden":"Nellikordenen","no_beskrivelse":"","bildemappe":"Hinnebegerfamilien"},
   {"gbif":"3066","familie":"Aristolochiaceae","orden":"Piperales","no_familie":"Pipeurtfamilien","no_orden":"Pepperordenen","no_beskrivelse":"","bildemappe":"Pipeurtfamilien"},
   {"gbif":"2425","familie":"Ceratophyllaceae","orden":"Ceratophyllales","no_familie":"Hornbladfamilien","no_orden":"Hornbladordenen","no_beskrivelse":"","bildemappe":"Hornbladfamilien"},
   {"gbif":"6689","familie":"Verbenaceae","orden":"Lamiales","no_familie":"Jernurtfamilien","no_orden":"Leppeblomstordenen","no_beskrivelse":"","bildemappe":"Jernurtfamilien"},
@@ -126,6 +126,7 @@
   {"gbif":"3719","familie":"Acoraceae","orden":"Acorales","no_familie":"Kalmusrotfamilien","no_orden":"Kalmusrotordenen","no_beskrivelse":"","bildemappe":"Kalmusrotfamilien"},
   {"gbif":"3734","familie":"Nartheciaceae","orden":"Dioscoreales","no_familie":"Romefamilien","no_orden":"Yamsrotordenen","no_beskrivelse":"","bildemappe":"Romefamilien"},
   {"gbif":"7682","familie":"Amaryllidaceae","orden":"Asparagales","no_familie":"Påskeliljefamilien","no_orden":"Aspargesordenen","no_beskrivelse":"","bildemappe":"Paskeliljefamilien"},
-  {"gbif":"7708","familie":"Cyperaceae","orden":"Poales","no_familie":"Starrfamilien","no_orden":"Grasordenen","no_beskrivelse":"Starrfamilien er en stor familie med over 5000 arter. Her er noen få arter.","bildemappe":"Starrfamilien"}
+  {"gbif":"7708","familie":"Cyperaceae","orden":"Poales","no_familie":"Starrfamilien","no_orden":"Grasordenen","no_beskrivelse":"","bildemappe":"Starrfamilien"},
+  {"gbif":"3073","familie":"Poaceae","orden":"Poales","no_familie":"Grasfamilien","no_orden":"Grasordenen","no_beskrivelse":"","bildemappe":"Grasfamilien"}  
 ]
 
