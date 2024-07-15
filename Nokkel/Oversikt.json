@@ -21,7 +21,7 @@
   ["E7WIZ zNWGt vPbJW",           "Plante",  "PlanteForglemmegeislekta",     "Forglemmegeislekta",          "plante_soleie.png",    "Basert på Norsk Flora",
     "Forglemmegeislekta",
     "Engforglemmegei Lundforglemmegei Krypforglemmegei Bueforglemmegei Fjellforglemmegei Skogforglemmegei Åkerforglemmegei Gjerdeforglemmegei Bakkeforglemmegei Dvergforglemmegei Perleforglemmegei"],
-    ["E7WIZ zNWGt vPbJW",           "Plante",  "PlanteRodKlover",     "",          "",    "Hjelp til å skille rødkløver og skogkløver",
+    ["E7WIZ zNWGt vPbJW",           "Plante",  "PlanteRodKlover",     "",          "Rødkløver vs. skogkløver",    "Hjelp til å skille rødkløver og skogkløver",
     "",
     "Rødkløver Skogkløver"],
   ["E7WIZ zNWGt vPbJW",           "Dyr",     "DyrPattedyr",       "Våre vanligste pattedyr",    "dyr_ekorn",        "Basert på diverse beskrivelser",
