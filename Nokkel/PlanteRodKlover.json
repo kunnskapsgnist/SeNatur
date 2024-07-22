@@ -1,14 +1,15 @@
 [
-    {"id":"S01","bilde":"Erteblomstfamilien#rodklover_01.jpg","tittel":"Blomster","mer_info":"8324121","tekst":"Blomstene til rødkløver sitter ofte (ikke alltid) i øverste bladslire"},
-    {"id":"S02","bilde":"Erteblomstfamilien#skogklover_0001.jpg","mer_info":"5358812","tekst":"Blomstene til skogkløver er gjerne mer fargerike, er lengre og har ofte (ikke alltid) stilk"},
+    {"id":"S01","bilde":"Erteblomstfamilien#rodklover_01.jpg","tittel":"Blomster","mer_info":"8324121","tekst":"Blomsterstanden til rødkløver er ofte kulerund og tett"},
+    {"id":"S02","bilde":"Erteblomstfamilien#skogklover_0014.jpg","mer_info":"5358812","tekst":"Blomsterstanden til skogkløver er ofte bredere enn høy og ikke like tett som rødkløver"},
+    {"id":"S01","bilde":"Erteblomstfamilien#rodklover_01.jpg","tittel":"Blomsterstilk","mer_info":"8324121","tekst":"Rødkløver har vanligvis blader rett under blomsterstanden"},
+    {"id":"S02","bilde":"Erteblomstfamilien#skogklover_0014.jpg","mer_info":"5358812","tekst":"Skogkløver har vanligvis en kort, bar stilk mellom blomsterstanden og de øverste bladene"},
     {"id":"S11","bilde":"Erteblomstfamilien#rodklover_05.jpg","tittel":"Øreblad og slire","mer_info":"8324121","tekst":"Rødkløver har en bred, hinneaktig slire med tydelige nerver og korte tenner"},
-    {"id":"S12","bilde":"Erteblomstfamilien#skogklover_0001.jpg","mer_info":"5358812","tekst":"Skogkløver har smalere slire og lange tenner"},
+    {"id":"S12","bilde":"Erteblomstfamilien#skogklover_11.jpg","mer_info":"5358812","tekst":"Skogkløver har smalere slire og lange tenner"},
     {"id":"S21","bilde":"Erteblomstfamilien#rodklover_0023.jpg","tittel":"Hår på beger","mer_info":"8324121","tekst":"Rødkløver har tiltrykte hår på begeret (kan sees med lupe)"},
-    {"id":"S22","bilde":"Erteblomstfamilien#skogklover_0001.jpg","mer_info":"5358812","tekst":"Skogkløver har hårete beger med hårete tenner (kan sees med lupe). Lange blomster og begertenner"},
+    {"id":"S22","bilde":"Erteblomstfamilien#skogklover_10.jpg","mer_info":"5358812","tekst":"Skogkløver har hårete beger med hårete tenner (kan sees med lupe). Lange blomster og begertenner"},
     {"id":"S31","bilde":"Erteblomstfamilien#rodklover_11.jpg","tittel":"Bladene","mer_info":"8324121","tekst":"Rødkløver har vanligvis runde blader med sølvfarget V"},
     {"id":"S32","bilde":"Erteblomstfamilien#skogklover_0001.jpg","mer_info":"5358812","tekst":"Skogkløver har vanligvis lange, smale blader som kan ha sølvfarget V"},
-    {"id":"S41","bilde":"Erteblomstfamilien#rodklover_12.jpg","tittel":"Voksemåte","mer_info":"8324121", "tekst":"Rødkløver vokser i små tuer med sine omtrent loddrette overjordsstengler"},
-    {"id":"S42","bilde":"Erteblomstfamilien#skogklover_0001.jpg","mer_info":"5358812","tekst":"Skogkløver danner matter med sine krypende jordstengler og overjordstengler med et kneledd nederst"}
+    {"id":"S41","bilde":"Erteblomstfamilien#rodklover_12.jpg","tittel":"Voksemåte","mer_info":"8324121", "tekst":"Rødkløver vokser ofte i små tuer og hver blomst strekker seg rett opp"},
+    {"id":"S42","bilde":"Erteblomstfamilien#skogklover_0001.jpg","mer_info":"5358812","tekst":"Skogkløver danner matter med stilker som går litt i zikk-zakk"}
 ]
-
-
+ 
