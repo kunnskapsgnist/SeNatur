@@ -1,0 +1,16 @@
+[
+    {"id":"S01","bilde":"Makefamilien#rodnebbterne_0001.jpg","tittel":"Nebbfarge","mer_info":"5229230","tekst":"Rødnebbterne har helt rødt nebb"},
+    {"id":"S02","bilde":"Makefamilien#makrellterne_0002.jpg","mer_info":"9367409","tekst":"Makrellterne har oransjerødt nebb med svart spiss, men den svarte spissen kan være liten"},
+    {"id":"S11","bilde":"Makefamilien#rodnebbterne_0014.jpg","tittel":"Nebbform","mer_info":"5229230","tekst":"Rødnebbterne har litt kortere nebb"},
+    {"id":"S12","bilde":"Makefamilien#makrellterne_00.jpg","mer_info":"9367409","tekst":"Makrellterne har lengre nebb som bøyer bittelitt nedover"},
+    {"id":"S21","bilde":"Makefamilien#rodnebbterne_0006.jpg","tittel":"Stjertlengde","mer_info":"5229230","tekst":"Rødnebbterne har lang stjert som er lengre enn vingene når den sitter"},
+    {"id":"S22","bilde":"Makefamilien#makrellterne_01.jpg","mer_info":"9367409","tekst":"Makrellterne har kortere stjert som ikke når ut til vingene når den sitter"},
+    {"id":"S31","bilde":"Makefamilien#rodnebbterne_0005.jpg","tittel":"Beinlengde","mer_info":"5229230","tekst":"Rødnebbterne har svært korte bein"},
+    {"id":"S32","bilde":"Makefamilien#makrellterne_0017.jpg","mer_info":"9367409","tekst":"Makrellterne har litt lengre bein"},
+    {"id":"S41","bilde":"Makefamilien#rodnebbterne_0008.jpg","tittel":"Form","mer_info":"5229230","tekst":"Rødnebbterne har kortere hode/hals slik at vingene ligger foran kroppens midpunkt i flukt"},
+    {"id":"S42","bilde":"Makefamilien#makrellterne_0013.jpg","mer_info":"9367409","tekst":"Makrellterne har lengre hode/hals slik at vingene er plassert omtrent midt på kroppen i flukt"},
+    {"id":"S51","bilde":"Makefamilien#rodnebbterne_0002.jpg","tittel":"Oppførsel","mer_info":"5229230","tekst":"Rødnebbterne stiler og senker seg trinnvis før den stupdykker"},
+    {"id":"S52","bilde":"Makefamilien#makrellterne_02.jpg","mer_info":"9367409","tekst":"Makrellterne stiler og stupdykker"},
+    {"id":"S61","bilde":"Makefamilien#rodnebbterne_0007.jpg","tittel":"Farge","mer_info":"5229230","tekst":"Rødnebbterne har tydelig kontrast mellom lysegrå underside og hvite kinn/strupe"},
+    {"id":"S62","bilde":"Makefamilien#makrellterne_0006.jpg","mer_info":"9367409","tekst":"Makrellterne har en gradvis overgang mellom lysegrå underside og hvite kinn"}
+]
