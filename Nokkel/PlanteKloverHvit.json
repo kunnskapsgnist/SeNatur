@@ -1,0 +1,15 @@
+[
+    {"id":"S01","bilde":"Erteblomstfamilien#hvitklover_0020.jpg","tittel":"Blomster","mer_info":"5358748","tekst":"Hodet til hvitkløver er rundt og hvit (sjeldent rosa)"},
+    {"id":"S02","bilde":"Erteblomstfamilien#forklover_01.jpg","mer_info":"6109535","tekst":"Hodet til fôrdkløver er kulerund og er først hvit, deretter rødlig"},
+    {"id":"S31","bilde":"Erteblomstfamilien#hvitklover_0008.jpg","tittel":"Stengel","mer_info":"5358748","tekst":"Hvitkløver har krypende jordstengler som rotslår ved bladfestene"},
+    {"id":"S32","bilde":"Erteblomstfamilien#forklover_01.jpg","mer_info":"6109535","tekst":"Fôrkløver har lange, loddrette stengler som skifter litt retning ved bladfestene"},
+    {"id":"S51","bilde":"Erteblomstfamilien#hvitklover_02.jpg","tittel":"Blader på stengel","mer_info":"5358748", "tekst":"Hvitkløver har enten et blad eller et blomsterhode på stilkene opp fra den krypende jordstengelen"},
+    {"id":"S52","bilde":"Erteblomstfamilien#forklover_02.jpg","mer_info":"6109535","tekst":"Fôrkløver har blader et stykke opp på stengelen, men ikke helt opp til blomsterhodet"},
+    {"id":"S11","bilde":"Erteblomstfamilien#hvitklover_03.jpg","tittel":"Blomsterstilk","mer_info":"5358748","tekst":"Hodet til hvitkløver har lange stilker uten blader"},
+    {"id":"S12","bilde":"Erteblomstfamilien#forklover_02.jpg","mer_info":"6109535","tekst":"Hodet til fôrkløver har lange stilker med litt avstand ned til bladene"},
+    {"id":"S21","bilde":"Erteblomstfamilien#hvitklover_01.jpg","tittel":"Øreblad og slire","mer_info":"5358748","tekst":"Hvitkløver har store, tynne øreblad med lange spisser"},
+    {"id":"S22","bilde":"Erteblomstfamilien#forklover_09.jpg","mer_info":"6109535","tekst":"Fôrkløver har tynne øreblad med lange spisser"},
+    {"id":"S41","bilde":"Erteblomstfamilien#hvitklover_08.jpg","tittel":"Bladene","mer_info":"5358748","tekst":"Bladene til hvitkløver har lange stilker. Småbladene har spisse tenner langs kanten og rette sidenerver"},
+    {"id":"S42","bilde":"Erteblomstfamilien#forklover_04.jpg","mer_info":"6109535","tekst":"Bladene til fôrkløver har lysegrønne blader. Småbladene har spisse tenner langs kanten og er butte"}
+]
+ 
