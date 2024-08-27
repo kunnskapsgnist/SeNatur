@@ -24,7 +24,7 @@
   ["klar","Plante",  "PlanteKlokker",     "Klokkefamilien",             "plante_klokke",    "Nøkkel basert på Norsk Flora og tips fra biologer",
     "Klokkefamilien Klokkeslekta Blåmunkeslekta Lobeliaslekta Vadderotslekta",
     "Blåklokke Blåmunke Botnegras Engklokke Fagerklokke Høyfjellsklokke Nesleklokke Skjeggklokke Stavklokke Storklokke Toppklokke Ugrasklokke Vadderot"],
-  ["E7WIZ zNWGt vPbJW",           "Plante",  "PlanteSoleieslekta",     "Soleieslekta",          "blomst",    "Nøkkel basert på Norsk Flora",
+  ["E7WIZ zNWGt vPbJW",           "Plante",  "PlanteSoleieslekta",     "Soleieslekta",          "plante_soleie.png",    "Nøkkel basert på Norsk Flora",
     "Soleiefamilien Soleieslekta",
     "Tiggersoleie Dvergsoleie Sumpsoleie Snøsoleie Polarsoleie Lodnesoleie Bakkesoleie Skogsoleie Bakkesoleie Nyresoleier Knollsoleie Krattsoleie Krypsoleie Kjempesoleie Grøftesoleie Evjesoleie Issoleie Alpehvitsoleie Hvitsoleie Storvassoleie Kystvassoleie Dvergvassoleie Småvassoleie"],
   ["klar",           "Plante",  "PlanteForglemmegeislekta",     "Forglemmegeislekta",          "plante_forglemmegei.png",    "Nøkkel basert på Norsk Flora",
