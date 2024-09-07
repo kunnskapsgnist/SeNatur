@@ -36,6 +36,6 @@
   ["Dyr", "Landpattedyr",               "2024-09-04","57 ville pattedyr observert i Norge","dyr"],
   ["Dyr", "Sjøpattedyr",                "2024-09-04","29 sjøpattedyr observert i Norge","dyr_delfin"],
   ["Dyr", "Amfibier og reptiler",       "2024-09-04","10 arter av amfibier og reptiler observert i Norge","dyr_slange"],
-  ["Fisk","Fisk 1",                     "2024-03-31","10 fisk for nybegynneren (trenger ikke abonnement for å registere funn)","fisk"],
-  ["Fisk","Fisk 2",                     "2024-05-06","100 vanlige arter for interesserte","fisk_al"]
+  ["Fisk","Fisk 1",                     "2024-09-05","10 fisk for nybegynneren (trenger ikke abonnement for å registere funn)","fisk"],
+  ["Fisk","Fisk 2",                     "2024-09-05","100 vanlige arter for interesserte","fisk_al"]
 ]
