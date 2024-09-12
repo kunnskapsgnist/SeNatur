@@ -1,10 +1,10 @@
 [
     {"id":"N1","bilde":"Rosefamilien#fjellmarikape_02.jpg","tittel":"Blader delt halvveis eller mer inn mot midten","tekst":""},
     {"id":"N11","bilde":"Rosefamilien#fjellmarikape_01.jpg","tittel":"Bladene delt helt inn til midten","tekst":""},
-    {"id":"N12A","bilde":"Rosefamilien#fjellmarikape_03.jpg","tittel":"Fjellmarikåpe","mer_info":"3027648","tekst":"Bladene delt helt inn til midten, glatte på oversiden og har myke hår på undersiden. Flikene har kun noen få tenner i tuppen."},
-    {"id":"N12","bilde":"Rosefamilien#faroymarikape_02.jpg","tittel":"Bladene delt mer enn halvveis inn mot midten","tekst":"Flikene smalner inn mot midten"},
+    {"id":"N11A","bilde":"Rosefamilien#fjellmarikape_03.jpg","tittel":"Fjellmarikåpe","mer_info":"3027648","tekst":"Bladene delt helt inn til midten, glatte på oversiden og har myke hår på undersiden. Flikene har kun noen få tenner i tuppen."},
+    {"id":"N12","bilde":"Rosefamilien#faroymarikape_02.jpg","tittel":"Flikene smalner innover","tekst":""},
     {"id":"N12A","bilde":"Rosefamilien#faroymarikape_01.jpg","tittel":"Færøymarikåpe","mer_info":"3027563","tekst":"Bladene delt minst halvveis inn mot midten, spisse tenner i tuppen og med fliker som smalner inn mot midten."},
-    {"id":"N13","bilde":"Rosefamilien#sunnmorsmarikape_0001.jpg","tittel":"Bladene delt omtrent halvveis inn mot midten","tekst":"Flikene beholder samme tykkelse"},
+    {"id":"N13","bilde":"Rosefamilien#sunnmorsmarikape_0001.jpg","tittel":"Flikene beholder samme bredde","tekst":""},
     {"id":"N13A","bilde":"Rosefamilien#sunnmorsmarikape_0001.jpg","tittel":"Sunnmørsmarikåpe","mer_info":"5409958","tekst":"Bladene delt omtrent halvveis inn mot midten, spisse tenner i tuppen og med fliker som ikke blir smalere inn mot midten."},
     {"id":"N2","bilde":"Rosefamilien#bilde.jpg","tittel":"Blader delt mindre enn halvveis inn mot midten","tekst":""},
     {"id":"N21","bilde":"Rosefamilien#bilde.jpg","tittel":"Sprikende hår","tekst":"på blomster- og bladstilk"},
