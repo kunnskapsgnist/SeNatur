@@ -1,0 +1,20 @@
+[
+    {"id":"S01","bilde":"Meisefamilien#sranmeis_0048.jpg","tittel":"Lyd","tekst":"Granmeis har noen triller sammen med ti-ti-tæ-tæ-tæ"},
+    {"id":"S02","bilde":"Meisefamilien#lovmeis_0020.jpg","tekst":"Løvmeis har en mer eksplosiv lyd: pi-tjæ"},
+    {"id":"S11","bilde":"Meisefamilien#sranmeis_00.jpg","tittel":"Lyst felt","tekst":"Granmeis har et lyst felt på vingen"},
+    {"id":"S12","bilde":"Meisefamilien#lovmeis_0003.jpg","tekst":"Løvmeis har ikke et lyst felt på vingen"},
+    {"id":"S21","bilde":"Meisefamilien#sranmeis_0003.jpg","tittel":"Hette","tekst":"Granmeis har matt hette"},
+    {"id":"S22","bilde":"Meisefamilien#lovmeis_0025.jpg","tekst":"Voksne løvmeis har glinsende svart hette"},
+    {"id":"S31","bilde":"Meisefamilien#sranmeis_0018.jpg","tittel":"Smekke","tekst":"Granmeis har stor smekke som vier seg ut nedover"},
+    {"id":"S32","bilde":"Meisefamilien#lovmeis_0002.jpg","tekst":"Løvmeis har litt mindre smekke"},
+    {"id":"S41","bilde":"Meisefamilien#sranmeis_0025.jpg","tittel":"Kinn","tekst":"Granemis har helt hvite kinn"},
+    {"id":"S42","bilde":"Meisefamilien#lovmeis_0015.jpg","tekst":"Løvmeis har litt skittenhvite kinn"},
+    {"id":"S51","bilde":"Meisefamilien#sranmeis_0041.jpg","tittel":"Nebb","tekst":"Granmeis har ikke lyst felt på nebbet"},
+    {"id":"S52","bilde":"Meisefamilien#lovmeis_0034.jpg","tekst":"Løvmeis har lyst felt innerst på nebbet"},
+    {"id":"S61","bilde":"Meisefamilien#sranmeis_0049.jpg","tittel":"Rygg","tekst":"Granmeis er grålig"},
+    {"id":"S62","bilde":"Meisefamilien#lovmeis_00.jpg","tekst":"Løvmeis er mer brungrå"},
+    {"id":"S71","bilde":"Meisefamilien#sranmeis_0060.jpg","tittel":"Flankene","tekst":"Granmeis har lyse flanker med litt brunt"},
+    {"id":"S72","bilde":"Meisefamilien#lovmeis_0005.jpg","tekst":"Løvmeis er mer brunlig"},
+    {"id":"S81","bilde":"Meisefamilien#sranmeis_0056.jpg","tittel":"Lyd","mer_info":"2487866","tekst":"Granmeis"},
+    {"id":"S82","bilde":"Meisefamilien#lovmeis_0038.jpg","mer_info":"2487843","tekst":"Løvmeis"}
+]
