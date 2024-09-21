@@ -1,0 +1,22 @@
+[
+    {"id":"S11","bilde":"Skarvefamilien#toppskarv_01.jpg","tittel":"Hvit flekk på låret","tekst":"Toppskarv har ingen hvit flekk på låret"},
+    {"id":"S12","bilde":"Skarvefamilien#storskarv_0010.jpg","tekst":"Voksne storskarv har en hvit flekk på låret"},
+    {"id":"S21","bilde":"Skarvefamilien#toppskarv_0033.jpg","tittel":"Hodet","tekst":"Toppskarv har bratt panne med høyeste punkt over pannen"},
+    {"id":"S22","bilde":"Skarvefamilien#storskarv_0037.jpg","tekst":"Storskarv har mer firkantet hode med høyeste punkt plasert på bakhodet"},
+    {"id":"S31","bilde":"Skarvefamilien#toppskarv_0037.jpg","tittel":"Flygehøyde","tekst":"Toppskarv flyr gjerne høyt over vannet"},
+    {"id":"S32","bilde":"Skarvefamilien#storskarv_0011.jpg","tekst":"Storskarv flyr gjerne rett over vannskorpen"},
+    {"id":"S41","bilde":"Skarvefamilien#toppskarv_0055.jpg","tittel":"Fjærpynt på hodet","tekst":"I hekkesensongen har toppskarv fjærpynt på hodet"},
+    {"id":"S42","bilde":"Skarvefamilien#storskarv_0052.jpg","tekst":"Storskarv har ingen fjærpynt på hodet"},
+    {"id":"S71","bilde":"Skarvefamilien#toppskarv_0025.jpg","tittel":"Nebb","tekst":"Toppskarv har tynnere gulaktig/svart nebb med gult innerst"},
+    {"id":"S72","bilde":"Skarvefamilien#storskarv_0039.jpg","tekst":"Storskarv har grovere lysegrått nebb (aldri gulaktig) med oransje flekk innerst"},
+    {"id":"S51","bilde":"Skarvefamilien#toppskarv_0027.jpg","tittel":"Kinn","tekst":"Toppskarv har en avrundet eller ingen lys kinnflekk med gult rundt nebbet"},
+    {"id":"S52","bilde":"Skarvefamilien#storskarv_0058.jpg","tekst":"Storskarv har en kantete lys kinnflekk med oransje flekk under øyet"},
+    {"id":"S61","bilde":"Skarvefamilien#toppskarv_0032.jpg","tittel":"Størrelse","tekst":"Toppskarv er mindre og slankere"},
+    {"id":"S62","bilde":"Skarvefamilien#storskarv_0015.jpg","tekst":"Storskarv er generelt kraftigere bygget"},
+    {"id":"S81","bilde":"Skarvefamilien#toppskarv_0008.jpg","tittel":"Fjærdrakt","tekst":"Toppskarv har et metallisk grønnskjær i det svarte"},
+    {"id":"S82","bilde":"Skarvefamilien#storskarv_0023.jpg","tekst":"Storskarv er svartere. Unge er mer brune"},
+    {"id":"S91","bilde":"Skarvefamilien#toppskarv_0048.jpg","tittel":"Habitat","tekst":"Toppskarv trives langs kysten"},
+    {"id":"S92","bilde":"Skarvefamilien#storskarv_0001.jpg","tekst":"Storskarv trives også i innlandsvann og fjorder"},
+    {"id":"S101","bilde":"Skarvefamilien#toppskarv_0007.jpg","tittel":"Mer info","mer_info":"2481861","tekst":"Toppskarv"},
+    {"id":"S102","bilde":"Skarvefamilien#storskarv_0042.jpg","mer_info":"2481890","tekst":"Storskarv"}
+]
