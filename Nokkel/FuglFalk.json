@@ -1,7 +1,11 @@
 [
-    {"id":"F0","bilde":"Falkefamilien#ekorn_00.jpg","tittel":"Tårnfalk","mer_info":"8211070","tekst":"Lange vinger og stjert. Stiler ofte. Rødbrun rygg. Mørk overside på vingetupper. Rolige vingeslag og lite glideflukt. Rask serie korte, skarpe ki-ki-ki-ki. Hannen har blågrått hode og ingen striper på stjerten bortsett fra bredt svart bånd på enden. Hunnen har rødbrunt hode og tverrstripete stjert."},
-    {"id":"F1","bilde":"Hundefamilien#rodrev_00.jpg","tittel":"Rødrev","mer_info":"5219243","tekst":"En staselig luring"},
-    {"id":"F2","bilde":"Bjornefamilien#brunbjorn_00.jpg","tittel":"Brunbjørn","mer_info":"2433433","tekst":"En stor bamse med overraskende smidig kropp"}
+    {"id":"F0","bilde":"Falkefamilien#tarnfalk_0023.jpg","tittel":"Tårnfalk","mer_info":"9616058","tekst":"&#x2022 Lange vinger og stjert. &#x2022 Stiler ofte. Rødbrun rygg. Mørk overside av hånden. Rolige vingeslag og lite glideflukt. Rask serie korte, skarpe ki-ki-ki-ki. Hannen har blågrått hode og ingen striper på stjerten bortsett fra bredt svart bånd på enden. Hunnen har rødbrunt hode og tverrstripete stjert."},
+    {"id":"F1","bilde":"Falkefamilien#vandrefalk_0008.jpg","tittel":"Vandrefalk","mer_info":"2481047","tekst":"Svart lue som trekkes ned over ørene. Svart og hvit. Svarte, tette striper på buken, tverrgående hos de voksne og i lengderetning hos de unge. Hunnen er tydelig større enn hannen."},
+    {"id":"F2","bilde":"Falkefamilien#brunbjorn_00.jpg","tittel":"Dvergfalk","mer_info":"9813242","tekst":"Liten falk på størrelse med en trost. Mørk overside av hånden. Hannen har grått hode og rygg, oransjebrunt bryst og et svart bånd i enden av halen."},
+    {"id":"F2","bilde":"Falkefamilien#brunbjorn_00.jpg","tittel":"Brunbjørn","mer_info":"2433433","tekst":"En stor bamse med overraskende smidig kropp"},
+    {"id":"F2","bilde":"Falkefamilien#brunbjorn_00.jpg","tittel":"Brunbjørn","mer_info":"2433433","tekst":"En stor bamse med overraskende smidig kropp"},
+    {"id":"F2","bilde":"Falkefamilien#brunbjorn_00.jpg","tittel":"Brunbjørn","mer_info":"2433433","tekst":"En stor bamse med overraskende smidig kropp"},
+    {"id":"F2","bilde":"Falkefamilien#brunbjorn_00.jpg","tittel":"Brunbjørn","mer_info":"2433433","tekst":"En stor bamse med overraskende smidig kropp"}
 ]
 
 
