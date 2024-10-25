@@ -8,7 +8,7 @@
   ["klar","Fugl","SFuglMakeSvartSild","Svartbak vs. sildemåke","fugl_maker","Hjelp til å skille svartbak og sildemåke","Måkefamilien Larus","Svartbak Sildemåke"],
   ["klar","Fugl","SFuglMeisLovGran","Løvmeis vs. granmeis","fugl_meis","Hjelp til å skille løvmeis og granmeis","Meisefamilien Poecile","Løvmeis Granmeis"],
   ["klar","Fugl","SFuglDvergloSandlo","Dverglo vs. sandlo","fugl_vader","Hjelp til å skille dverglo og sandlo","Lofamilien Charadrius","Dverglo Sandlo"],
-  ["E7WIZ zNWGt vPbJW","Fugl","PFuglBlameis","Blåmeis","fugl_spurv","Artsprofil","Meisefamilien Cyanistes","Blåmeis"],
+  ["E7WIZ zNWGt vPbJW","Fugl","PFuglBlameis","Blåmeis","fugl_meis","Artsprofil","Meisefamilien Cyanistes","Blåmeis"],
   ["klar","Plante","NPlanteTreBlader","Blader på løvtrær","plante_blad","Nøkkel basert på diverse beskrivelser av artene","","Ask Rogn Hestekastanje Spisslønn Lind Sommereik Vintereik Selje Alm Hegg Bjørk Osp Hassel Alm Bøk Gråor Svartor"],
   ["klar","Plante","NPlanteTreVinter","Løvtrær om vinteren","plante_kvist","Nøkkel basert på Norsk Flora og Norsk Botanisk Forenings Nettflora","","Alm Ask Bjørk Bøk Gråor Hassel Hegg Hestekastanje Lind Osp Rogn Selje Sommereik Spisslønn Svartor Vintereik"],
   ["klar","Plante","NPlanteKlokker","Klokkefamilien","plante_klokke.png","Nøkkel basert på Norsk Flora og tips fra biologer","Klokkefamilien Klokkeslekta Blåmunkeslekta Lobeliaslekta Vadderotslekta","Blåklokke Blåmunke Botnegras Engklokke Fagerklokke Høyfjellsklokke Nesleklokke Skjeggklokke Stavklokke Storklokke Toppklokke Ugrasklokke Vadderot"],
