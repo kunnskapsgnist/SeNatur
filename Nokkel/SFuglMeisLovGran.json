@@ -13,8 +13,8 @@
     {"id":"S52","bilde":"Meisefamilien#granmeis_0049.jpg","tekst":"Granmeisen har en grå undertone"},
     {"id":"S61","bilde":"Meisefamilien#lovmeis_0026.jpg","tittel":"Sang","tekst":"Løvmeisen har en eksplosiv \"pi-tjæ\" lyd"},
     {"id":"S62","bilde":"Meisefamilien#granmeis_0051.jpg","tekst":"Granmeisen har en \"ti-ti-tæ-tæ-tæ\" og noen triller"},
-    {"id":"S71","bilde":"Artskart#2487843.png","tittel":"Utbredelse","tekst":"Løvmeis trives i lavlandet og mangler nordover i landet"},
-    {"id":"S72","bilde":"Artskart#2487866.png","tekst":"Granmeis trives over hele landet"},
+    {"id":"S71","bilde":"Artskart#2487843.png","tittel":"Utbredelse","info":"a","tekst":"Løvmeis trives i lavlandet og mangler nordover i landet"},
+    {"id":"S72","bilde":"Artskart#2487866.png","info":"a","tekst":"Granmeis trives over hele landet"},
     {"id":"S81","bilde":"Meisefamilien#lovmeis_00.jpg","tittel":"Mer info","mer_info":"2487843","tekst":"Løvmeis"},
     {"id":"S82","bilde":"Meisefamilien#granmeis_00.jpg","mer_info":"2487866","tekst":"Granmeis"}
 ]
