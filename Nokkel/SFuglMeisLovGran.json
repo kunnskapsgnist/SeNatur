@@ -1,0 +1,18 @@
+[
+    {"id":"S01","bilde":"Meisefamilien#lovmeis_0012.jpg","tittel":"Smekke","tekst":"Løvmeisen har en mindre smekke"},
+    {"id":"S02","bilde":"Meisefamilien#granmeis_0018.jpg","tekst":"Granmeisen har en større smekke som vider seg ut"},
+    {"id":"S11","bilde":"Meisefamilien#lovmeis_0003.jpg","tittel":"Nebb","tekst":"Løvmeisen har en hvit flekk på nebbet"},
+    {"id":"S12","bilde":"Meisefamilien#granmeis_0003.jpg","tekst":"Granmeisen mangler hvit flekk på nebbet"},
+    {"id":"S21","bilde":"Meisefamilien#lovmeis_0011.jpg","tittel":"Vinge","tekst":"Løvmeisen har ikke et lyst felt på vingen"},
+    {"id":"S22","bilde":"Meisefamilien#granmeis_0004.jpg","tekst":"Granmeisen har et lyst felt på vingen"},
+    {"id":"S31","bilde":"Meisefamilien#lovmeis_0042.jpg","tittel":"Hette","tekst":"Løvmeisen har glinsende svart hette"},
+    {"id":"S32","bilde":"Meisefamilien#granmeis_0026.jpg","tekst":"Granmeisen har matt hette"},
+    {"id":"S41","bilde":"Meisefamilien#lovmeis_0015.jpg","tittel":"Kinn","tekst":"Løvmeisen har ikke helt hvite kinn"},
+    {"id":"S42","bilde":"Meisefamilien#granmeis_0056.jpg","tekst":"Granmeisen har helt hvite kinn"},
+    {"id":"S51","bilde":"Meisefamilien#lovmeis_0034.jpg","tittel":"Undertone","tekst":"Løvmeisen har en brun undertone"},
+    {"id":"S52","bilde":"Meisefamilien#granmeis_0049.jpg","tekst":"Granmeisen har en grå undertone"},
+    {"id":"S61","bilde":"Meisefamilien#lovmeis_0026.jpg","tittel":"Sang","tekst":"Løvmeisen har en eksplosiv \"pi-tjæ\" lyd"},
+    {"id":"S62","bilde":"Meisefamilien#granmeis_0051.jpg","tekst":"Granmeisen har en \"ti-ti-tæ-tæ-tæ\" og noen triller"},
+    {"id":"S91","bilde":"Meisefamilien#lovmeis_00.jpg","tittel":"Mer info","mer_info":"2487843","tekst":"Løvmeis"},
+    {"id":"S92","bilde":"Meisefamilien#granmeis_00.jpg","mer_info":"2487866","tekst":"Granmeis"}
+]
