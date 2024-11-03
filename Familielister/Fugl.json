@@ -9,6 +9,7 @@
   {"gbif":"5245","familie":"Glareolidae","orden":"Charadriiformes","no_familie":"Brakksvalefamilien","no_orden":"Vade-, måke- og alkefugler","no_beskrivelse":"","bildemappe":"Brakksvalefamilien"},
   {"gbif":"9608","familie":"Emberizidae","orden":"Passeriformes","no_familie":"Buskspurvfamilien","no_orden":"Spurvefugler","no_beskrivelse":"Små spurvefugler med kjegleformet nebb, ni håndsvingfjær og trives nær eller på bakken","bildemappe":"Buskspurvfamilien"},
   {"gbif":"5277","familie":"Pycnonotidae","orden":"Passeriformes","no_familie":"Bylbylfamilien","no_orden":"Spurvefugler","no_beskrivelse":"","bildemappe":"Bylbylfamilien"},
+  {"gbif":"9310","familie":"Dicruridae","orden":"Passeriformes","no_familie":"Drongofamilien","no_orden":"Spurvefugler","no_beskrivelse":"","bildemappe":"Drongofamilien"},
   {"gbif":"5233","familie":"Columbidae","orden":"Columbiformes","no_familie":"Duefamilien","no_orden":"Duefugler","no_beskrivelse":"Fugler med kraftig brystmuskulatur","bildemappe":"Duefamilien"},
   {"gbif":"9338","familie":"Podicipedidae","orden":"Podicipediformes","no_familie":"Dykkerfamilien","no_orden":"Dykkere","no_beskrivelse":"","bildemappe":"Dykkerfamilien"},
   {"gbif":"5257","familie":"Motacillidae","orden":"Passeriformes","no_familie":"Erlefamilien","no_orden":"Spurvefugler","no_beskrivelse":"Små spurvefugler med lange stjerter. De er insektetende og leter etter mat på bakken","bildemappe":"Erlefamilien"},
@@ -68,6 +69,7 @@
   {"gbif":"9351","familie":"Sulidae","orden":"Suliformes","no_familie":"Sulefamilien","no_orden":"Sulefugler","no_beskrivelse":"Mellomstore til store dykkende svømmefugler","bildemappe":"Sulefamilien"},
   {"gbif":"6100825","familie":"Locustellidae","orden":"Passeriformes","no_familie":"Sumpsangerfamilien","no_orden":"Spurvefugler","no_beskrivelse":"","bildemappe":"Sumpsangerfamilien"},
   {"gbif":"5248","familie":"Hirundinidae","orden":"Passeriformes","no_familie":"Svalefamilien","no_orden":"Spurvefugler","no_beskrivelse":"Små og mellomstore spurvefugler som er tilpasset jakt på flygende insekter","bildemappe":"Svalefamilien"},
+  {"gbif":"9325","familie":"Odontophoridae","orden":"Galliformes","no_familie":"Tannvaktelfamilien","no_orden":"Hønsefugler","no_beskrivelse":"","bildemappe":"Tannvaktelfamilien"},
   {"gbif":"4287243","familie":"Haematopodidae","orden":"Charadriiformes","no_familie":"Tjeldfamilien","no_orden":"Vade-, måke- og alkefugler","no_beskrivelse":"","bildemappe":"Tjeldfamilien"},
   {"gbif":"9313","familie":"Gruidae","orden":"Gruiformes","no_familie":"Tranefamilien","no_orden":"Tranefugler","no_beskrivelse":"Relativt store vadefugler med lang hals, tett kropp og lange ben","bildemappe":"Tranefamilien"},
   {"gbif":"9610","familie":"Otididae","orden":"Otidiformes","no_familie":"Trappefamilien","no_orden":"Trapper","no_beskrivelse":"","bildemappe":"Trappefamilien"},
@@ -79,6 +81,7 @@
   {"gbif":"5292","familie":"Tytonidae","orden":"Strigiformes","no_familie":"Tårnuglefamilien","no_orden":"Ugler","no_beskrivelse":"","bildemappe":"Tarnuglefamilien"},
   {"gbif":"9348","familie":"Strigidae","orden":"Strigiformes","no_familie":"Uglefamilien","no_orden":"Ugler","no_beskrivelse":"Oppreist holdning med stort, bredt og rundt hode, kraftige klør, stille flukt og øyne som ser fremover","bildemappe":"Uglefamilien"},
   {"gbif":"9315","familie":"Laniidae","orden":"Passeriformes","no_familie":"Varslerfamilien","no_orden":"Spurvefugler","no_beskrivelse":"Små til mellomstore spurvefugler med slanke kropper, korte nakker, kraftige nebb og nesten alle har svart øyestrek","bildemappe":"Varslerfamilien"},
-  {"gbif":"9358","familie":"Vireonidae","orden":"Passeriformes","no_familie":"Vireofamilien","no_orden":"Spurvefugler","no_beskrivelse":"","bildemappe":"Vireofamilien"}
+  {"gbif":"9336","familie":"Ploceidae","orden":"Passeriformes","no_familie":"Veverfamilien","no_orden":"Spurvefugler","no_beskrivelse":"","bildemappe":"Veverfamilien"},
+  {"gbif":"9358","familie":"Vireonidae","orden":"Passeriformes","no_familie":"Vireofamilien","no_orden":"Spurvefugler","no_beskrivelse":"","bildemappe":"Vireofamilien"}  
 ]
 
