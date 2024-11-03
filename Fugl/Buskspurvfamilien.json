@@ -1,7 +1,5 @@
 [
-  [2491522,"grahodespurv_01.jpg","Alpsdake","CC BY-SA 3.0","Gråhodespurv","https://commons.wikimedia.org/wiki/File:Emberiza_spodocephala_personata_f2.JPG"],
   [2491521,"brunhodespurv_01.jpg","Мухаммадсолех Оев","CC BY 4.0","Brunhodespurv","https://commons.wikimedia.org/wiki/File:%D0%96%D0%B5%D0%BB%D1%87%D0%BD%D0%B0%D1%8F_%D0%BE%D0%B2%D1%81%D1%8F%D0%BD%D0%BA%D0%B0.jpg"],
-  [2491475,"gulstrupespurv_01.jpg","Robert tdc","CC BY-SA 2.0","Gulstrupespurv","https://commons.wikimedia.org/wiki/File:Emberiza_elegans.jpg"],
   [2491544,"dvergspurv_0001.jpg","Tommy Pedersen","CC BY 4.0","Dvergspurv","https://www.artsobservasjoner.no/Image/1943762"],
   [2491544,"dvergspurv_0002.jpg","Even Mjaaland","CC BY-SA 4.0","Dvergspurv","https://www.artsobservasjoner.no/Image/2428270"],
   [2491544,"dvergspurv_0003.jpg","Tommy Pedersen","CC BY 4.0","Dvergspurv","https://www.artsobservasjoner.no/Image/1943760"],
@@ -12,6 +10,8 @@
   [2491544,"dvergspurv_0008.jpg","Tor Olsen","CC BY 4.0","Dvergspurv","https://www.artsobservasjoner.no/Image/1481612"],
   [2491544,"dvergspurv_0009.jpg","Rune Zakariassen","CC BY 4.0","Dvergspurv","https://www.artsobservasjoner.no/Image/1375307"],
   [2491544,"dvergspurv_0010.jpg","Rune Zakariassen","CC BY 4.0","Dvergspurv","https://www.artsobservasjoner.no/Image/1375617"],
+  [2491522,"grahodespurv_01.jpg","Alpsdake","CC BY-SA 3.0","Gråhodespurv","https://commons.wikimedia.org/wiki/File:Emberiza_spodocephala_personata_f2.JPG"],
+  [2491530,"gulbrynspurv_01.jpg","Devonpike","CC BY-SA 3.0","Gulbrynspurv","https://commons.wikimedia.org/wiki/File:Yellow-browed_bunting_(Emberiza_chrysophrys)_Eocheong_Island_Korea_2012.jpg"],
   [2491534,"gulspurv_00.jpg","Alan Vernon","CC BY 2.0","Gulspurv hann","https://commons.wikimedia.org/wiki/File:Emberiza_citrinella_-New_Zealand_-North_Island-8.jpg"],
   [2491534,"gulspurv_01.JPG","Estormiz","CC0 1.0","Gulspurv hunn","https://commons.wikimedia.org/wiki/File:Emberiza_Citrinella_Oulu_20120303.JPG"],
   [2491534,"gulspurv_0000.jpg","John Haugen","CC BY 4.0","Gulspurv","https://www.artsobservasjoner.no/Image/1115072"],
@@ -29,6 +29,7 @@
   [2491534,"gulspurv_0012.jpg","Terje Syversen","CC BY 4.0","Gulspurv","https://www.artsobservasjoner.no/Image/1654566"],
   [2491534,"gulspurv_0013.jpg","Ståle Jensen","CC BY 4.0","Gulspurv","https://www.artsobservasjoner.no/Image/1576980"],
   [2491534,"gulspurv_0014.jpg","Stig Rognes","CC BY-SA 4.0","Gulspurv","https://www.artsobservasjoner.no/Image/1571463"],
+  [2491475,"gulstrupespurv_01.jpg","Robert tdc","CC BY-SA 2.0","Gulstrupespurv","https://commons.wikimedia.org/wiki/File:Emberiza_elegans.jpg"],
   [2491482,"hortulan_00.jpg","Pierre Dalous/Wikipedia","CC BY-SA 3.0","Hortulan","https://commons.wikimedia.org/wiki/File:Ortolan_bunting_in_Sierra_de_Guara,_Aragon,_Spain.jpg"],
   [2491482,"hortulan_0001.jpg","Rune Zakariassen","CC BY 4.0","Hortulan","https://www.artsobservasjoner.no/Image/513636"],
   [2491472,"hvithodespurv_0001.jpg","Tor Olsen","CC BY 4.0","Hvithodespurv","https://www.artsobservasjoner.no/Image/1540802"],
@@ -38,9 +39,12 @@
   [2491472,"hvithodespurv_0005.jpg","Knut Krogstad","CC BY 4.0","Hvithodespurv","https://www.artsobservasjoner.no/Image/312818"],
   [2491472,"hvithodespurv_0006.jpg","Knut Krogstad","CC BY 4.0","Hvithodespurv","https://www.artsobservasjoner.no/Image/312820"],
   [2491472,"hvithodespurv_0007.jpg","Knut Krogstad","CC BY 4.0","Hvithodespurv","https://www.artsobservasjoner.no/Image/312819"],
+  [2491517,"kastanjespurv_01.jpg","林孫鋒","CC BY-SA 4.0","Kastanjespurv","https://commons.wikimedia.org/wiki/File:Emberiza_rutila_190226429.jpg"],
   [7634625,"kornspurv_0001.jpg","Peter Sjolte Ranke","CC BY 4.0","Kornspurv","https://www.artsobservasjoner.no/Image/1620093"],
   [7634625,"kornspurv_0002.jpg","Peter Sjolte Ranke","CC BY 4.0","Kornspurv","https://www.artsobservasjoner.no/Image/1620094"],
   [2491591,"krattspurv_0001.jpg","Even Mjaaland","CC BY-SA 4.0","Krattspurv","https://www.artsobservasjoner.no/Image/2228328"],
+  [2491490,"rustspurv_01.jpg","Frank Vassen from Brussels, Belgium","CC BY 2.0","Rustspurv","https://commons.wikimedia.org/wiki/File:Cretzschmar%27s_Bunting_(Emberiza_caesia)_Mt._Olympus,_Lesvos,_Greece,_14.04.2015_(17294601805).jpg"],
+  [9566476,"rodbrystspurv_01.jpg","Tisha Mukherjee","CC BY-SA 4.0","Rødbrystspurv","https://commons.wikimedia.org/wiki/File:Grey-necked_bunting_17.jpg"],
   [2491518,"sibirspurv_00.jpg","lonelyshrimp","CC BY 2.0","Sibirspurv i Kina","https://snl.no/sibirspurv"],
   [2491557,"sivspurv_0019.jpg","Roar Ottesen","CC BY 4.0","Sivspurv","https://www.artsobservasjoner.no/Image/1159060"],
   [2491557,"sivspurv_0020.jpg","Morten Kleiva","CC BY 4.0","Sivspurv","https://www.artsobservasjoner.no/Image/940789"],
@@ -70,5 +74,5 @@
   [9613112,"svarthodespurv_01.jpg","Mark S Jobling","CC BY 3.0","Hann svarthodespurv","https://commons.wikimedia.org/wiki/File:28-090504-black-headed-bunting-at-first-layby.jpg"],
   [9613112,"svarthodespurv_02.jpg","Mildeep/Wikipedia","CC BY-SA 4.0","Svarthodespurv","https://commons.wikimedia.org/wiki/File:Black-headed-Bunting.jpg"],
   [2491582,"vierspurv_00.jpg","Gin tonic/Wikipedia","CC BY-SA 3.0","Vierspurv","https://commons.wikimedia.org/wiki/File:Kashiradaka-01.jpg"],
-  [2491582,"vierspurv_0001.jpg","Rune Solvang","CC BY 4.0","Vierspurv","https://www.artsobservasjoner.no/Image/320000"]  
+  [2491582,"vierspurv_0001.jpg","Rune Solvang","CC BY 4.0","Vierspurv","https://www.artsobservasjoner.no/Image/320000"]
 ]
