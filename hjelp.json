@@ -34,6 +34,9 @@
     ["Jeg registrerte en art feil. Kan jeg endre?",
     "Selvsagt. Trykk på blyanten ved siden av observasjonen. Nå kan du:<br>&#x25C6; endre art<br>&#x25C6; endre antall funn av arten<br>&#x25C6; endre tidspunkt<br>&#x25C6; endre posisjon. Merk at du alltid kan endre posisjon ved å trykke på et ikon på et kart, holde og dra ikonet dit du vil ha observasjonen.",
     ""],
+    ["Mitt funn havnet utenfor kysten av Afrika. Hva skjedde?",
+    "Du må gi gps'en litt tid til å finne deg før du registrerer første gang. Hvis den ikke finner deg, blir funnet lagret på 0 grader nord og 0 grader øst, dvs. utenfor kysten av Afrika.",
+    ""],
     ["Om mitt bibliotek...","",""],
     ["Hvor finner jeg biblioteket?",
     "&#x2776; Trykk på menyen (de tre prikkene øverst til høyre)<br>&#x2777; Velg \"Mitt bibliotek\""
