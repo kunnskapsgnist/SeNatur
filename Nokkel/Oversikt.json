@@ -21,7 +21,10 @@
   ["klar","Plante","SPlantePerikumFirkantPrikk","Firkantperikum vs. prikkperikum","plante_perikum.png","Hjelp til å skille våre to vanligeste perikumer","Perikumfamilien Perikumslekta","Firkantperikum Prikkperikum"],
   ["klar","Plante","SPlanteKloverRod","Rødkløver vs. skogkløver","plante_klover.png","Hjelp til å skille rødkløver og skogkløver","Erteblomstfamilien Kløverslekta","Rødkløver Skogkløver"],
   ["E7WIZ zNWGt vPbJW","Plante","SPlanteKloverHvit","Fôrkløver vs. hvitkløver","plante_klover.png","Hjelp til å skille fôrkløver og hvitkløver","Erteblomstfamilien Kløverslekta","Fôrkløver Hvitkløver"],
+  ["E7WIZ zNWGt vPbJW","Fugl","PFuglFossekall","Fossekall","fugl_vader","Artsprofil","Fossekallfamilien Cinclus","Fossekall"],
   ["E7WIZ zNWGt vPbJW","Fugl","PFuglBlameis","Blåmeis","fugl_meis","Artsprofil","Meisefamilien Cyanistes","Blåmeis"],
-  ["E7WIZ zNWGt vPbJW","Fugl","PFuglFossekall","Fossekall","fugl_vader","Artsprofil","Fossekallfamilien Cinclus","Fossekall"]
+  ["E7WIZ zNWGt vPbJW","Plante","PPlanteBergfrue","Bergfrue","blomst_hvit","Artsprofil","Sildrefamilien Sildreslekta","Bergfrue"],
+  ["E7WIZ zNWGt vPbJW","Plante","PPlanteRosslyng","Røsslyng","plante_busk_lilla","Artsprofil","Lyngfamilien Røsslyngslekta","Røsslyng"],
+  ["E7WIZ zNWGt vPbJW","Sopp","PSoppKantarell","Kantarell","sopp_trakt","Artsprofil","Cantharellaceae Kantareller","Kantarell"]
 ]
 
