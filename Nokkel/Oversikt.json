@@ -11,10 +11,6 @@
   ["klar","Fugl","SFuglDvergloSandlo","Dverglo vs. sandlo","fugl_vader","Hjelp til å skille dverglo og sandlo","Lofamilien Charadrius","Dverglo Sandlo"],
   ["klar","Plante","NPlanteTreBlader","Blader på løvtrær","plante_blad","Nøkkel basert på diverse beskrivelser av artene","","Ask Rogn Hestekastanje Spisslønn Lind Sommereik Vintereik Selje Alm Hegg Bjørk Osp Hassel Alm Bøk Gråor Svartor"],
   ["klar","Plante","NPlanteTreVinter","Løvtrær om vinteren","plante_kvist","Nøkkel basert på Norsk Flora og Norsk Botanisk Forenings Nettflora","","Alm Ask Bjørk Bøk Gråor Hassel Hegg Hestekastanje Lind Osp Rogn Selje Sommereik Spisslønn Svartor Vintereik"],
-  ["klar","Plante","NPlanteKlokker","Klokkefamilien","plante_klokke.png","Nøkkel basert på Norsk Flora og tips fra biologer","Klokkefamilien Klokkeslekta Blåmunkeslekta Lobeliaslekta Vadderotslekta","Blåklokke Blåmunke Botnegras Engklokke Fagerklokke Høyfjellsklokke Nesleklokke Skjeggklokke Stavklokke Storklokke Toppklokke Ugrasklokke Vadderot"],
-  ["klar","Plante","NPlanteFioler","Fiolfamilien","plante_fiol.png","Nøkkel basert på Norsk Flora","Fiolfamilien Fiolslekta ","Marsfiol Lodnefiol Bakkefiol Krattfiol Dalfiol Stor myrfiol Myrfiol Fjellfiol Grusfiol Skogfiol Bleikfiol Hundefiol Åkerstemorsblom Stemorsblom Hornfiol Hagestemorsblom"],
-  ["klar","Plante","NPlanteTreBlader","Blader på løvtrær","plante_blad","Nøkkel basert på diverse beskrivelser av artene","","Ask Rogn Hestekastanje Spisslønn Lind Sommereik Vintereik Selje Alm Hegg Bjørk Osp Hassel Alm Bøk Gråor Svartor"],
-  ["klar","Plante","NPlanteTreVinter","Løvtrær om vinteren","plante_kvist","Nøkkel basert på Norsk Flora og Norsk Botanisk Forenings Nettflora","","Alm Ask Bjørk Bøk Gråor Hassel Hegg Hestekastanje Lind Osp Rogn Selje Sommereik Spisslønn Svartor Vintereik"],
   ["klar","Plante","NPlanteKlokker","Klokkefamilien","plante_klokke","Nøkkel basert på Norsk Flora og tips fra biologer","Klokkefamilien Klokkeslekta Blåmunkeslekta Lobeliaslekta Vadderotslekta","Blåklokke Blåmunke Botnegras Engklokke Fagerklokke Høyfjellsklokke Nesleklokke Skjeggklokke Stavklokke Storklokke Toppklokke Ugrasklokke Vadderot"],
   ["klar","Plante","NPlanteFioler","Fiolfamilien","plante_fiol.png","Nøkkel basert på Norsk Flora","Fiolfamilien Fiolslekta ","Marsfiol Lodnefiol Bakkefiol Krattfiol Dalfiol Stor myrfiol Myrfiol Fjellfiol Grusfiol Skogfiol Bleikfiol Hundefiol Åkerstemorsblom Stemorsblom Hornfiol Hagestemorsblom"],
   ["E7WIZ zNWGt vPbJW","Plante","NPlanteValmuer","Valmuefamilien","plante_valmue.png","Nøkkel basert på Norsk Flora","Valmuefamilien Valmueslekta Lerkesporeslekta Jordrøykslekta Svaleurtslekta","Svaleurt Kornvalmue Opiumsvalmue Kjempevalmue Sibirvalmue Polarvalmue Svalbardvalmue Gul hornvalmue Gul valmuesøster Jordrøyk Klengelerkespore Lerkespore Fingerlerkespore Hagelerkespore Gul lerkespore Småhjerte Løytnanshjerte"],
@@ -25,10 +21,11 @@
   ["klar","Plante","SPlantePerikumFirkantPrikk","Firkantperikum vs. prikkperikum","plante_perikum.png","Hjelp til å skille våre to vanligeste perikumer","Perikumfamilien Perikumslekta","Firkantperikum Prikkperikum"],
   ["klar","Plante","SPlanteKloverRod","Rødkløver vs. skogkløver","plante_klover.png","Hjelp til å skille rødkløver og skogkløver","Erteblomstfamilien Kløverslekta","Rødkløver Skogkløver"],
   ["E7WIZ zNWGt vPbJW","Plante","SPlanteKloverHvit","Fôrkløver vs. hvitkløver","plante_klover.png","Hjelp til å skille fôrkløver og hvitkløver","Erteblomstfamilien Kløverslekta","Fôrkløver Hvitkløver"],
-  ["E7WIZ zNWGt vPbJW","Fugl","PFuglFossekall","Fossekall","fugl_vader","Artsprofil","Fossekallfamilien Cinclus","Fossekall"],
-  ["E7WIZ zNWGt vPbJW","Fugl","PFuglBlameis","Blåmeis","fugl_meis","Artsprofil","Meisefamilien Cyanistes","Blåmeis"],
-  ["E7WIZ zNWGt vPbJW","Plante","PPlanteBergfrue","Bergfrue","blomst_hvit","Artsprofil","Sildrefamilien Sildreslekta","Bergfrue"],
-  ["E7WIZ zNWGt vPbJW","Plante","PPlanteRosslyng","Røsslyng","plante_busk_lilla","Artsprofil","Lyngfamilien Røsslyngslekta","Røsslyng"],
-  ["E7WIZ zNWGt vPbJW","Sopp","PSoppKantarell","Kantarell","sopp_trakt","Artsprofil","Cantharellaceae Kantareller","Kantarell"]
+  ["klar","Fugl","PFuglFossekall","Fossekall","fugl_vader","Artsprofil","Fossekallfamilien Cinclus","Fossekall"],
+  ["klar","Fugl","PFuglBlameis","Blåmeis","fugl_meis","Artsprofil","Meisefamilien Cyanistes","Blåmeis"],
+  ["klar","Plante","PPlanteBergfrue","Bergfrue","blomst_hvit","Artsprofil","Sildrefamilien Sildreslekta","Bergfrue"],
+  ["klar","Plante","PPlanteRosslyng","Røsslyng","plante_busk_lilla","Artsprofil","Lyngfamilien Røsslyngslekta","Røsslyng"],
+  ["klar","Sopp","PSoppKantarell","Kantarell","sopp_trakt","Artsprofil","Cantharellaceae Kantareller","Kantarell"],
+  ["klar","Dyr","PDyrEkorn","Ekorn","dyr_ekorn","Artsprofil","Ekornfamilien","Ekorn"]
 ]
 
