@@ -1,11 +1,11 @@
 [
-    ["PFuglFossekall","Fossekall","","","","","","","","","",""],
-    ["","","PPlanteBergfrue","Bergfrue","","","","","","","",""],
-    ["","","PPlanteRosslyng","Røsslyng","","","","","","","",""],
-    ["","","","","PSoppKantarell","Kantarell","","","","","",""],
-    ["PFuglBlameis","Blåmeis","","","","","","","","","",""],
-    ["","","","","","","","","PDyrEkorn","Ekorn","",""],
-    ["","","","","","","PInsektBlindKollebille","Blind køllebille","","","",""],
-    ["","","","","","","PInsektAdmiral","Admiral","","","",""]
+    ["FuglFossekall","Fossekall","","","","","","","","","",""],
+    ["","","PlanteBergfrue","Bergfrue","","","","","","","",""],
+    ["","","PlanteRosslyng","Røsslyng","","","","","","","",""],
+    ["","","","","SoppKantarell","Kantarell","","","","","",""],
+    ["FuglBlameis","Blåmeis","","","","","","","","","",""],
+    ["","","","","","","","","DyrEkorn","Ekorn","",""],
+    ["","","","","","","InsektBlindKollebille","Blind køllebille","","","",""],
+    ["","","","","","","InsektAdmiral","Admiral","","","",""]
 ]
 
