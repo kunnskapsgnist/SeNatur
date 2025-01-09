@@ -26,6 +26,7 @@
   ["klar","Fugl","PFuglSkjare","Skjære","fugl_krake","Artsprofil","Krakefamilien Pica","Skjære"],
   ["klar","Plante","PPlanteBergfrue","Bergfrue","blomst_hvit","Artsprofil","Sildrefamilien Sildreslekta","Bergfrue"],
   ["klar","Plante","PPlanteRosslyng","Røsslyng","plante_busk_lilla","Artsprofil","Lyngfamilien Røsslyngslekta","Røsslyng"],
+  ["klar","Plante","PPlanteLiljekonvall","Liljekonvall","plante_blomst","Artsprofil","Aspargesfamilien Liljekonvallslekta","Liljekonvall"],
   ["klar","Sopp","PSoppKantarell","Kantarell","sopp_trakt","Artsprofil","Cantharellaceae Kantareller","Kantarell"],
   ["klar","Insekt","PInsektBlindKollebille","Blind køllebille","insekt_bille","Artsprofil","Kortvinger Claviger","Blind køllebille"],
   ["klar","Insekt","PInsektAdmiral","Admiral","insekt_sommerfugl","Artsprofil","Lymfevinger Vanessa","Admiral"],
