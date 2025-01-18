@@ -29,6 +29,7 @@
   ["klar","Plante","PPlanteRosslyng","Røsslyng","plante_busk_lilla","Artsprofil","Lyngfamilien Røsslyngslekta","Røsslyng"],
   ["klar","Plante","PPlanteLiljekonvall","Liljekonvall","plante_blomst","Artsprofil","Aspargesfamilien Liljekonvallslekta","Liljekonvall"],
   ["klar","Sopp","PSoppKantarell","Kantarell","sopp_trakt","Artsprofil","Cantharellaceae Kantareller","Kantarell"],
+  ["klar","Sopp","PSoppRodrandkjuke","Rødrandkjuke","sopp_hylle","Artsprofil","Fomitopsidaceae Fomitopsis","Rødrandkjuke"],
   ["klar","Insekt","PInsektBlindKollebille","Blind køllebille","insekt_bille","Artsprofil","Kortvinger Claviger","Blind køllebille"],
   ["klar","Insekt","PInsektAdmiral","Admiral","insekt_sommerfugl","Artsprofil","Lymfevinger Vanessa","Admiral"],
   ["klar","Dyr","PDyrEkorn","Ekorn","dyr_ekorn","Artsprofil","Ekornfamilien","Ekorn"]
