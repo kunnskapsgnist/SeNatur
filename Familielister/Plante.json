@@ -178,6 +178,8 @@
 {"gbif":"8750","familie":"Hookeriaceae","orden":"Hookeriales","no_familie":"Hookeriaceae","no_orden":"Dronningmoseordenen","no_beskrivelse":"","bildemappe":"Hookeriaceae"},
 {"gbif":"6096596","familie":"Distichiaceae","orden":"Dicranales","no_familie":"Distichiaceae","no_orden":"Sporemoseordenen","no_beskrivelse":"","bildemappe":"Distichiaceae"},
 {"gbif":"8756","familie":"Fontinalaceae","orden":"Hypnales","no_familie":"Fontinalaceae","no_orden":"Flettemoseordenen","no_beskrivelse":"","bildemappe":"Fontinalaceae"},
-{"gbif":"2267","familie":"Porellaceae","orden":"Porellales","no_familie":"Teppemosefamilien","no_orden":"Teppemoseordenen","no_beskrivelse":"","bildemappe":"Teppemosefamilien"}
+{"gbif":"2267","familie":"Porellaceae","orden":"Porellales","no_familie":"Teppemosefamilien","no_orden":"Teppemoseordenen","no_beskrivelse":"","bildemappe":"Teppemosefamilien"},
+{"gbif":"10011601","familie":"Pylaisiaceae","orden":"Hypnales","no_familie":"Pylaisiaceae","no_orden":"Flettemoseordenen","no_beskrivelse":"","bildemappe":"Pylaisiaceae"},
+{"gbif":"4898338","familie":"Montiaceae","orden":"Caryophyllales","no_familie":"Kildeurtfamilien","no_orden":"Nellikordenen","no_beskrivelse":"","bildemappe":"Kildeurtfamilien"}
 ]
 
