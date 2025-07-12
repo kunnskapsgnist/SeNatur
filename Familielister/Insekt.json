@@ -247,6 +247,7 @@
   {"gbif":"3346","familie":"Culicidae","orden":"Diptera","no_familie":"Stikkmygg","no_orden":"Tovinger","no_beskrivelse":"","bildemappe":"Stikkmygg"},
   {"gbif":"7634","familie":"Tipulidae","orden":"Diptera","no_familie":"Storstankelbein","no_orden":"Tovinger","no_beskrivelse":"","bildemappe":"Storstankelbein"},
   {"gbif":"7634","familie":"Tipulidae","orden":"Diptera","no_familie":"Storstankelbein","no_orden":"Tovinger","no_beskrivelse":"","bildemappe":"Storstankelbein"},
+  {"gbif":"6918","familie":"Tachinidae","orden":"Diptera","no_familie":"Snyltefluer","no_orden":"Tovinger","no_beskrivelse":"","bildemappe":"Snyltefluer"},
   {"gbif":"7271","familie":"Anisopodidae","orden":"Diptera","no_familie":"Vindusmygg","no_orden":"Tovinger","no_beskrivelse":"","bildemappe":"Vindusmygg"},
   {"gbif":"6923","familie":"Stratiomyidae","orden":"Diptera","no_familie":"Våpenfluer","no_orden":"Tovinger","no_beskrivelse":"","bildemappe":"Vapenfluer"},
   {"gbif":"1555553","familie":"Scathophagidae","orden":"Diptera","no_familie":"Åkerflue","no_orden":"Tovinger","no_beskrivelse":"","bildemappe":"Akerflue"},
@@ -278,6 +279,8 @@
   {"gbif":"5205","familie":"Sialidae","orden":"Megaloptera","no_familie":"Mudderfluer","no_orden":"Mudderfluer","no_beskrivelse":"","bildemappe":"Mudderfluer"},
   {"gbif":"4211","familie":"Calopterygidae","orden":"Odonata","no_familie":"Praktvannymfer","no_orden":"Øyenstikkere","no_beskrivelse":"","bildemappe":"Praktvannymfer"},
   {"gbif":"5936","familie":"Libellulidae","orden":"Odonata","no_familie":"Speidelibeller","no_orden":"Øyenstikkere","no_beskrivelse":"","bildemappe":"Speidelibeller"},
-  {"gbif":"4209","familie":"Aeshnidae","orden":"Odonata","no_familie":"Storlibeller","no_orden":"Øyenstikkere","no_beskrivelse":"","bildemappe":"Storlibeller"}
+  {"gbif":"4209","familie":"Aeshnidae","orden":"Odonata","no_familie":"Storlibeller","no_orden":"Øyenstikkere","no_beskrivelse":"","bildemappe":"Storlibeller"},
+  {"gbif":"6918","familie":"Tachinidae","orden":"Diptera","no_familie":"Snyltefluer","no_orden":"Tovinger","no_beskrivelse":"","bildemappe":"Snyltefluer"},
+  {"gbif":"7777","familie":"Cantharidae ","orden":"Coleoptera","no_familie":"Bløtvinger","no_orden":"Biller","no_beskrivelse":"","bildemappe":"Blotvinger"}
 ]
 
