@@ -20,6 +20,7 @@
   ["klar","Plante","NPlanteForglemmegeislekta","Forglemmegeislekta","plante_forglemmegei.png","Nøkkel basert på Norsk Flora","Rubladfamilien Forglemmegeislekta","Engforglemmegei Lundforglemmegei Krypforglemmegei Bueforglemmegei Fjellforglemmegei Skogforglemmegei Åkerforglemmegei Gjerdeforglemmegei Bakkeforglemmegei Dvergforglemmegei Perleforglemmegei"],
   ["E7WIZ zNWGt vPbJW","Plante","NPlanteMarikape","Marikåper","plante_marikape.png","Nøkkel basert på Norsk Flora","Rosefamilien Marikåpeslekta",""],
   ["klar","Plante","SPlantePerikumFirkantPrikk","Firkantperikum vs. prikkperikum","plante_perikum.png","Hjelp til å skille våre to vanligeste perikumer","Perikumfamilien Perikumslekta","Firkantperikum Prikkperikum"],
+  ["klar","Plante","SPlanteKongslys","Mørkkongslys vs. filtkongslys","blomst","Hjelp til å skille våre to vanligeste kongslys","Brunrotfamilien Kongslysslekta","Mørkkongslys Filtkongslys"],
   ["klar","Plante","SPlanteKloverRod","Rødkløver vs. skogkløver","plante_klover.png","Hjelp til å skille rødkløver og skogkløver","Erteblomstfamilien Kløverslekta","Rødkløver Skogkløver"],
   ["E7WIZ zNWGt vPbJW","Plante","SPlanteKloverHvit","Fôrkløver vs. hvitkløver","plante_klover.png","Hjelp til å skille fôrkløver og hvitkløver","Erteblomstfamilien Kløverslekta","Fôrkløver Hvitkløver"],
   ["klar","Fugl","PFuglFossekall","Fossekall","fugl_vader","Artsprofil","Fossekallfamilien Cinclus","Fossekall"],
