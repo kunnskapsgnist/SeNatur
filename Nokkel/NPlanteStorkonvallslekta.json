@@ -1,16 +1,13 @@
 [
-    {"id":"N1","bilde":"Perikumfamilien#firkantperikum_0045.jpg","tittel":"Stengelen er kantete","tekst":"Våre vanligste arter"},
-    {"id":"N11","bilde":"Perikumfamilien#prikkperikum_0003.jpg","tittel":"Begerbladene er spisse","tekst":"Stengelen har to lister. Bladene har mange, tydelige, gjennomsiktige kjertler."},
-    {"id":"N11A","bilde":"Perikumfamilien#prikkperikum_01.jpg","tittel":"Prikkperikum","mer_info":"3189486","tekst":"Prikkperikum har mørkegule kronblad med svarte prikker og striper. Stengelen har to lister og er dekket av et lyst vokslag. Bladene har mange gjennomsiktige kjertler. Begerbladene er spisse med svarte kjertler."},
-    {"id":"N12","bilde":"Perikumfamilien#firkantperikum_0024.jpg","tittel":"Begerbladene er butte","tekst":"Stengelen har fire lister. Bladene har få eller ingen, utydelige, gjennomsiktige kjertler."},
-    {"id":"N12A","bilde":"Perikumfamilien#firkantperikum_02.jpg","tittel":"Firkantperikum","mer_info":"6437017","tekst":"Firkantperikum har gule kronblad med svarte prikker og striper. Stengelen har fire lister. Bladene har få eller ingen gjennomsiktige kjertler. Begerbladene er butte med noen få svarte kjertler."},
-    {"id":"N2","bilde":"Perikumfamilien#fagerperikum_0005.jpg","tittel":"Stengelen har ikke kanter","tekst":"Sjeldne arter"},
-    {"id":"N21","bilde":"Perikumfamilien#lodneperikum_0014.jpg","tittel":"Hårete stengel og blad","tekst":""},
-    {"id":"N21A","bilde":"Perikumfamilien#lodneperikum_0002.jpg","tittel":"Lodneperikum","mer_info":"7921919","tekst":"Lodneperikum er sjelden. Den har blekgule blomster. Både stengel og blad er hårete og uten svarte kjertler. Begerbladene er spisse med svarte kjertelhår langs kanten."},
-    {"id":"N22","bilde":"Perikumfamilien#fagerperikum_0010.jpg","tittel":"Stengel og blad uten hår","tekst":""},
-    {"id":"N221","bilde":"Perikumfamilien#fagerperikum_0014.jpg","tittel":"Korte, butte, trekanta blader som er bredest ved stilken","tekst":"Blomsterstanden er lang og åpen"},
-    {"id":"N221A","bilde":"Perikumfamilien#fagerperikum_0018.jpg","tittel":"Fagerperikum","mer_info":"3712747","tekst":"Fagerperikum finnes kun helt ute ved kysten i vest og sør. Den er den eneste perikummen med korte, avrundet, trekanta blader som er bredest ved stilken. Alle de andre har blad som er bredest på midten. Alle bladene har samme størrelse. Begerbladene er butte med svarte kjertler. Stengelen og knoppene er røde."},
-    {"id":"N222","bilde":"Perikumfamilien#bergperikum_0005.jpg","tittel":"Bladene er mindre oppover stengelen","tekst":"Blomsterstanden er kort og tett"},
-    {"id":"N222A","bilde":"Perikumfamilien#bergperikum_0003.jpg","tittel":"Bergperikum","mer_info":"3714477","tekst":"Bergperikum liker varme og finnes kun sjelden langs kysten. Den har gule kronblad. Begerbladene er avlange og spisse, med svarte kjertler. Stengelen har sjelden forgreininger."}
+{"id":"N1","bilde":"Aspargesfamilien#kranskonvall_0001.jpg","tittel":"Blader i kranser rundt stengelen","tekst":"Røde bær"},
+{"id":"N1A","bilde":"Aspargesfamilien#kranskonvall_0050.jpg","tittel":"Kranskonvall","mer_info":"2770004","tekst":"40-100 cm høy. Smale, spisse blad med 3-8 blad per krans. Blomstene henger parvis i bladhjørnene."},
+{"id":"N2","bilde":"Aspargesfamilien#storkonvall_09.jpg","tittel":"Blader enkeltvis langs stengelen","tekst":"Blåsvarte bær"},
+{"id":"N21","bilde":"Aspargesfamilien#kantkonvall_0039.jpg","tittel":"Hele stengelen er kantete","tekst":"1-2 blomster med rette sider i hvert bladhjørne"},
+{"id":"N21A","bilde":"Aspargesfamilien#kantkonvall_0001.jpg","tittel":"Kantkonvall","mer_info":"2770228","tekst":"15-50 cm høy. Dufter vanilje. Tykke, butte blader som peker oppover. Liker seg i tørre bakker."},
+{"id":"N22","bilde":"Aspargesfamilien#storkonvall_05.jpg","tittel":"Rund stengel under nederste blad","tekst":"Flere blomster med litt innsnøring i hvert bladhjørne"},
+{"id":"N221","bilde":"Aspargesfamilien#storkonvall_03.jpg","tittel":"Rund, tynn stengel mellom bladene","tekst":"Lav, bred med blad ut til siden og bøyd stengel"},
+{"id":"N221A","bilde":"Aspargesfamilien#storkonvall_06.jpg","tittel":"Storkonvall","mer_info":"2770022","tekst":"30-80 cm høy. Myke blader. Blomster ofte 9-15 mm lange. 2-4 blomster i hvert bladhjørne. Luktfri. Liker seg i skogbunn (edelskog)."},
+{"id":"N222","bilde":"Aspargesfamilien#kjempekonvall_0009.jpg","tittel":"Kantente stengel mellom bladene","tekst":"Høy, smal med blad som peker oppover og rett nedre stengel"},
+{"id":"N222A","bilde":"Aspargesfamilien#kjempekonvall_0002.jpg","tittel":"Kjempekonvall","mer_info":"7881150","tekst":"50-100 cm høy. Faste blader. Blomster ofte mer enn 15 mm lange. 2-4 blomster per bladhjørne. Liker seg i veikanter nær bebyggelse."}
 ]
 
