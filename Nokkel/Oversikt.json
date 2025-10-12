@@ -35,6 +35,8 @@
   ["klar","Sopp","PSoppRodrandkjuke","Rødrandkjuke","sopp_hylle","Artsprofil","Fomitopsidaceae Fomitopsis","Rødrandkjuke"],
   ["klar","Insekt","PInsektBlindKollebille","Blind køllebille","insekt_bille","Artsprofil","Kortvinger Claviger","Blind køllebille"],
   ["klar","Insekt","PInsektAdmiral","Admiral","insekt_sommerfugl","Artsprofil","Lymfevinger Vanessa","Admiral"],
-  ["klar","Dyr","PDyrEkorn","Ekorn","dyr_ekorn","Artsprofil","Ekornfamilien","Ekorn"]
+  ["klar","Dyr","PDyrEkorn","Ekorn","dyr_ekorn","Artsprofil","Ekornfamilien","Ekorn"],
+  ["klar","Sopp","PSoppMatblekksopp","Matblekksopp","sopp_skiver","Artsprofil","Agaricaceae Skjellblekksopper","Matblekksopp"],
+  ["klar","Sopp","PPSoppVorteroyksopp","Vorterøyksopp","sopp_kule","Artsprofil","Agaricaceae Skjellblekksopper","Vorterøyksopp"]
 ]
 
