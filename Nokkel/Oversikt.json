@@ -37,6 +37,7 @@
   ["klar","Insekt","PInsektAdmiral","Admiral","insekt_sommerfugl","Artsprofil","Lymfevinger Vanessa","Admiral"],
   ["klar","Dyr","PDyrEkorn","Ekorn","dyr_ekorn","Artsprofil","Ekornfamilien","Ekorn"],
   ["klar","Sopp","PSoppMatblekksopp","Matblekksopp","sopp_skiver","Artsprofil","Agaricaceae Skjellblekksopper","Matblekksopp"],
-  ["klar","Sopp","PPSoppVorteroyksopp","Vorterøyksopp","sopp_kule","Artsprofil","Agaricaceae Skjellblekksopper","Vorterøyksopp"]
+  ["klar","Sopp","PSoppVorteroyksopp","Vorterøyksopp","sopp_kule","Artsprofil","Agaricaceae Skjellblekksopper","Vorterøyksopp"],
+  ["klar","Sopp","PSoppBrodkorg","Brodkorg","sopp_beger","Artsprofil","Agaricaceae Skjellblekksopper","Brodkorg"]
 ]
 
