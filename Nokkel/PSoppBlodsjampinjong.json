@@ -1,0 +1,39 @@
+[
+  { "id": "F0", "bilde": "Agaricaceae#blodsjampinjong_0037.jpg", "tittel": "Kjennetegn", "tekst": "Hvis du skraper litt i kjøttet til blodsjampinjong, rødner den raskt og mye." },
+  {
+    "id": "F1",
+    "bilde": "Agaricaceae#blodsjampinjong_0002.jpg",
+    "tittel": "Stilk",
+    "tekst": "Stilken er hvit til svakt grårosa. Den har en hvit ring som kan ha striper på oversiden. Bunnen er formet som en knoll."
+  },
+  {
+    "id": "F2",
+    "bilde": "Agaricaceae#blodsjampinjong_0017.jpg",
+    "tittel": "Hatt",
+    "tekst": "Skivene sitter ikke fast på stilken. De er først rosa og senere brunsvarte. Hatten er først kuleformet før den blir flatere og får brune skjell."
+  },
+  { "id": "F3", "bilde": "Agaricaceae#blodsjampinjong_0001.jpg", "tittel": "Matsopp", "tekst": "Blodsjampinjong er en god matsopp." },
+  { "id": "F4", "bilde": "Agaricaceae#blodsjampinjong_0012.jpg", "tittel": "Voksested", "tekst": "Blodsjampinjong vokser i både bar- og løvskog, gjerne mellom gamle grannåler." },
+  {
+    "id": "F5",
+    "bilde": "Agaricaceae#stor_blodsjampinjong_0001.jpg",
+    "tittel": "Forveksling",
+    "mer_info": "8336113",
+    "tekst": "Stor blodsjampinjong ligner, men er større. Stilken har ikke knoll nederst og ringen er kraftigere."
+  },
+  {
+    "id": "F6",
+    "bilde": "Agaricaceae#rodnende_parasollsopp_0001.jpg",
+    "tittel": "Forveksling",
+    "mer_info": "5955395",
+    "tekst": "Rødnende parasollsopper ligner litt på blodsjampinjong, men har hvite skiver."
+  },
+  {
+    "id": "F7",
+    "bilde": "Agaricaceae#hagesjampinjong_0001.jpg",
+    "tittel": "Forveksling",
+    "mer_info": "5243507",
+    "tekst": "Hagesjampinjong kan også ligne, men blir mer brun der den skrapes og vokser i næringsrik jord."
+  },
+  { "id": "F8", "bilde": "Artskart#8108291.png", "tittel": "Vanlig", "mer_info": "8108291", "tekst": "Blodsjampinjong trives nord til Troms." }
+]
